@@ -1,0 +1,170 @@
+name: Update YML feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *" # каждые 30 минут
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate feed.xml from Google Sheets CSV
+        run: |
+          python - <<'PY'
+          import csv, io, urllib.request
+          from datetime import datetime, timezone
+
+          CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSW_cjXwgi0BYsuYc4SeY06E6IAqPshYTq5Eq97tqhENHDSzfY3BymRCBSc_j3zbCLgGEzG423SaKYP/pub?gid=1151539810&single=true&output=csv"
+
+          SHOP_NAME = "AnimeStore"
+          SHOP_COMPANY = "ИП Захаров Николай Сергеевич"
+          SHOP_URL = "https://аниме-магазин.рф"
+          PLATFORM = "ГуглТаблицы"
+          CURRENCY = "RUR"
+
+          # Категория из OZON — столбец L (12-й столбец), но в CSV будем брать по заголовку "OZON"
+          # Если заголовок другой — ниже есть fallback на 12-й столбец.
+          CATEGORY_HEADER_CANDIDATES = ["OZON", "Категория OZON", "Категория", "CATEGORY"]
+
+          SKU_HEADER = "Артикул"
+          NAME_HEADER = "Название"
+          PRICE_HEADER_CANDIDATES = ["AT", "Авито", "AVITO", "АТ"]
+          PICTURE_HEADER = "Ссылка на фото"
+
+          def esc(s: str) -> str:
+            return (s.replace("&","&amp;")
+                     .replace("<","&lt;")
+                     .replace(">","&gt;")
+                     .replace('"',"&quot;")
+                     .replace("'","&apos;"))
+
+          def norm_price(v):
+            if v is None: return None
+            s = str(v).strip().replace(" ", "").replace(",", ".")
+            if not s: return None
+            try:
+              n = float(s)
+            except:
+              return None
+            if n <= 0: return None
+            return f"{n:.2f}"
+
+          data = urllib.request.urlopen(CSV_URL, timeout=60).read().decode("utf-8", errors="replace")
+          rows = list(csv.reader(io.StringIO(data)))
+          if len(rows) < 2:
+            raise SystemExit("CSV empty")
+
+          headers = [h.strip() for h in rows[0]]
+
+          def find_idx_exact(name):
+            try: return headers.index(name)
+            except ValueError: return -1
+
+          def find_idx_any(cands):
+            for c in cands:
+              i = find_idx_exact(c)
+              if i >= 0: return i
+            # contains
+            up = [h.upper() for h in headers]
+            for c in cands:
+              cu = c.upper()
+              for i, h in enumerate(up):
+                if cu in h:
+                  return i
+            return -1
+
+          i_sku = find_idx_exact(SKU_HEADER)
+          i_name = find_idx_exact(NAME_HEADER)
+          i_pic = find_idx_exact(PICTURE_HEADER)
+          i_price = find_idx_any(PRICE_HEADER_CANDIDATES)
+
+          if i_sku < 0 or i_name < 0 or i_price < 0:
+            raise SystemExit(f"Missing columns. Need: {SKU_HEADER}, {NAME_HEADER}, price in {PRICE_HEADER_CANDIDATES}. Have: {headers}")
+
+          i_cat = find_idx_any(CATEGORY_HEADER_CANDIDATES)
+          if i_cat < 0:
+            # fallback на L (12-й столбец) если CSV полный и есть столько колонок
+            i_cat = 11
+
+          # date RFC3339 + tz
+          date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
+
+          # Собираем категории (уникальные значения)
+          cat_id = {}
+          cats = []
+          next_id = 1
+          for r in rows[1:]:
+            c = (r[i_cat] if i_cat < len(r) else "").strip()
+            if not c: 
+              continue
+            if c not in cat_id:
+              cat_id[c] = next_id
+              cats.append((next_id, c))
+              next_id += 1
+
+          if not cats:
+            cats = [(1, "Товары")]
+            cat_id["Товары"] = 1
+
+          out = []
+          out.append('<?xml version="1.0" encoding="UTF-8"?>')
+          out.append(f'<yml_catalog date="{esc(date)}">')
+          out.append("  <shop>")
+          out.append(f"    <name>{esc(SHOP_NAME)}</name>")
+          out.append(f"    <company>{esc(SHOP_COMPANY)}</company>")
+          out.append(f"    <url>{esc(SHOP_URL)}</url>")
+          out.append(f"    <platform>{esc(PLATFORM)}</platform>")
+          out.append("    <currencies>")
+          out.append(f'      <currency id="{esc(CURRENCY)}" rate="1"/>')
+          out.append("    </currencies>")
+          out.append("    <categories>")
+          for cid, cname in cats:
+            out.append(f'      <category id="{cid}">{esc(cname)}</category>')
+          out.append("    </categories>")
+          out.append("    <offers>")
+
+          for r in rows[1:]:
+            sku = (r[i_sku] if i_sku < len(r) else "").strip()
+            name = (r[i_name] if i_name < len(r) else "").strip()
+            price = norm_price(r[i_price] if i_price < len(r) else "")
+            if not sku or not name or price is None:
+              continue
+
+            pic = (r[i_pic] if (i_pic >= 0 and i_pic < len(r)) else "").strip()
+            cat = (r[i_cat] if (i_cat >= 0 and i_cat < len(r)) else "").strip()
+            cid = cat_id.get(cat, cats[0][0])
+
+            out.append(f'      <offer id="{esc(sku)}">')
+            out.append(f"        <name>{esc(name)}</name>")
+            out.append(f"        <price>{price}</price>")
+            out.append(f"        <currencyId>{esc(CURRENCY)}</currencyId>")
+            out.append(f"        <categoryId>{cid}</categoryId>")
+            if pic:
+              out.append(f"        <picture>{esc(pic)}</picture>")
+            out.append("      </offer>")
+
+          out.append("    </offers>")
+          out.append("  </shop>")
+          out.append("</yml_catalog>")
+          out.append("")
+
+          open("feed.xml", "w", encoding="utf-8", newline="\n").write("\n".join(out))
+          PY
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          git commit -m "Update feed.xml"
+          git push
