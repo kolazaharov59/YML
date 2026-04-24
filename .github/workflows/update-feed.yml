@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate feed.xml from Google Sheets CSV (price-only)
+      - name: Generate feed.xml from Google Sheets CSV (price-only, vendorCode=sku)
         run: |
           python - <<'PY'
           import csv, io, urllib.request
@@ -88,12 +88,12 @@ jobs:
             if price is None:
               continue
 
-out.append(f'      <offer id="{esc(sku)}">')
-out.append(f"        <vendorCode>{esc(sku)}</vendorCode>")
-out.append(f"        <price>{price}</price>")
-out.append(f"        <currencyId>{esc(CURRENCY)}</currencyId>")
-out.append(f"        <vat>{esc(VAT)}</vat>")
-out.append("      </offer>")
+            out.append(f'      <offer id="{esc(sku)}">')
+            out.append(f"        <vendorCode>{esc(sku)}</vendorCode>")
+            out.append(f"        <price>{price}</price>")
+            out.append(f"        <currencyId>{esc(CURRENCY)}</currencyId>")
+            out.append(f"        <vat>{esc(VAT)}</vat>")
+            out.append("      </offer>")
 
           out.append("    </offers>")
           out.append("  </shop>")
