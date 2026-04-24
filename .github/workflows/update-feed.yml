@@ -88,11 +88,12 @@ jobs:
             if price is None:
               continue
 
-            out.append(f'      <offer id="{esc(sku)}">')
-            out.append(f"        <price>{price}</price>")
-            out.append(f"        <currencyId>{esc(CURRENCY)}</currencyId>")
-            out.append(f"        <vat>{esc(VAT)}</vat>")
-            out.append("      </offer>")
+out.append(f'      <offer id="{esc(sku)}">')
+out.append(f"        <shop-sku>{esc(sku)}</shop-sku>")
+out.append(f"        <price>{price}</price>")
+out.append(f"        <currencyId>{esc(CURRENCY)}</currencyId>")
+out.append(f"        <vat>{esc(VAT)}</vat>")
+out.append("      </offer>")
 
           out.append("    </offers>")
           out.append("  </shop>")
