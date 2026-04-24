@@ -1,3308 +1,2245 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-24T00:05:24+00:00">
+<yml_catalog date="2026-04-24T05:56:27+00:00">
   <shop>
     <name>AnimeStore</name>
     <company>ИП Захаров Николай Сергеевич</company>
     <url>https://аниме-магазин.рф</url>
     <platform>ГуглТаблицы</platform>
-    <currencies>
-      <currency id="RUR" rate="1"/>
-    </currencies>
-    <categories>
-      <category id="1">2880</category>
-      <category id="2">2770</category>
-      <category id="3">2400</category>
-      <category id="4">3510</category>
-      <category id="5">3380</category>
-      <category id="6">7000</category>
-      <category id="7">2340</category>
-      <category id="8">2440</category>
-      <category id="9">1940</category>
-      <category id="10">2490</category>
-      <category id="11">1970</category>
-      <category id="12">2390</category>
-      <category id="13">1500</category>
-      <category id="14">1530</category>
-      <category id="15">1840</category>
-      <category id="16">4010</category>
-      <category id="17">2240</category>
-      <category id="18">2800</category>
-      <category id="19">4400</category>
-      <category id="20">2640</category>
-      <category id="21">3020</category>
-      <category id="22">1780</category>
-      <category id="23">1950</category>
-      <category id="24">870</category>
-      <category id="25">1520</category>
-      <category id="26">2870</category>
-      <category id="27">2500</category>
-      <category id="28">2910</category>
-      <category id="29">1860</category>
-      <category id="30">1400</category>
-      <category id="31">1540</category>
-      <category id="32">980</category>
-      <category id="33">1220</category>
-      <category id="34">990</category>
-      <category id="35">2900</category>
-      <category id="36">2420</category>
-      <category id="37">2990</category>
-      <category id="38">3000</category>
-      <category id="39">2600</category>
-      <category id="40">3050</category>
-      <category id="41">3230</category>
-      <category id="42">3140</category>
-      <category id="43">1820</category>
-      <category id="44">1510</category>
-      <category id="45">2160</category>
-      <category id="46">2840</category>
-      <category id="47">1880</category>
-      <category id="48">1960</category>
-      <category id="49">820</category>
-      <category id="50">1630</category>
-      <category id="51">1700</category>
-      <category id="52">740</category>
-      <category id="53">880</category>
-      <category id="54">1060</category>
-      <category id="55">2670</category>
-      <category id="56">2950</category>
-      <category id="57">2780</category>
-      <category id="58">2450</category>
-      <category id="59">1990</category>
-      <category id="60">2010</category>
-      <category id="61">3950</category>
-      <category id="62">5320</category>
-      <category id="63">2760</category>
-      <category id="64">1850</category>
-      <category id="65">1900</category>
-      <category id="66">3980</category>
-      <category id="67">3150</category>
-      <category id="68">3650</category>
-      <category id="69">1590</category>
-      <category id="70">1230</category>
-      <category id="71">1260</category>
-      <category id="72">840</category>
-      <category id="73">10000</category>
-      <category id="74">2350</category>
-      <category id="75">2020</category>
-      <category id="76">2130</category>
-      <category id="77">2220</category>
-      <category id="78">1640</category>
-      <category id="79">2740</category>
-      <category id="80">1760</category>
-      <category id="81">8960</category>
-      <category id="82">6770</category>
-      <category id="83">1920</category>
-      <category id="84">2380</category>
-      <category id="85">2330</category>
-      <category id="86">2120</category>
-      <category id="87">2200</category>
-      <category id="88">3420</category>
-      <category id="89">3690</category>
-      <category id="90">1460</category>
-      <category id="91">3840</category>
-      <category id="92">2730</category>
-      <category id="93">2430</category>
-      <category id="94">2550</category>
-      <category id="95">2790</category>
-      <category id="96">2510</category>
-      <category id="97">6650</category>
-      <category id="98">5270</category>
-      <category id="99">1470</category>
-      <category id="100">2090</category>
-      <category id="101">2110</category>
-      <category id="102">2140</category>
-      <category id="103">2230</category>
-      <category id="104">1910</category>
-      <category id="105">3470</category>
-      <category id="106">2000</category>
-      <category id="107">1790</category>
-      <category id="108">1490</category>
-      <category id="109">2250</category>
-      <category id="110">1340</category>
-      <category id="111">2030</category>
-      <category id="112">1770</category>
-      <category id="113">4680</category>
-      <category id="114">2300</category>
-      <category id="115">3290</category>
-      <category id="116">3410</category>
-      <category id="117">3190</category>
-      <category id="118">1070</category>
-      <category id="119">2530</category>
-      <category id="120">1280</category>
-      <category id="121">2210</category>
-      <category id="122">3960</category>
-      <category id="123">1250</category>
-      <category id="124">1830</category>
-      <category id="125">2070</category>
-      <category id="126">3060</category>
-      <category id="127">2710</category>
-      <category id="128">4150</category>
-      <category id="129">1620</category>
-      <category id="130">3080</category>
-      <category id="131">2620</category>
-      <category id="132">1430</category>
-      <category id="133">1360</category>
-      <category id="134">2060</category>
-      <category id="135">4340</category>
-      <category id="136">1690</category>
-      <category id="137">1300</category>
-      <category id="138">1670</category>
-      <category id="139">1410</category>
-      <category id="140">2370</category>
-      <category id="141">2180</category>
-      <category id="142">1750</category>
-      <category id="143">2310</category>
-      <category id="144">1550</category>
-      <category id="145">1740</category>
-      <category id="146">5400</category>
-      <category id="147">5570</category>
-      <category id="148">11040</category>
-      <category id="149">8950</category>
-      <category id="150">9400</category>
-      <category id="151">2170</category>
-      <category id="152">3590</category>
-      <category id="153">6310</category>
-      <category id="154">8370</category>
-      <category id="155">7460</category>
-      <category id="156">10790</category>
-      <category id="157">4580</category>
-      <category id="158">1680</category>
-      <category id="159">3310</category>
-      <category id="160">1350</category>
-      <category id="161">2570</category>
-      <category id="162">3660</category>
-      <category id="163">1580</category>
-      <category id="164">#N/A</category>
-    </categories>
     <offers>
       <offer id="1">
-        <name>Фигурка из аниме Наруто 3D Какаши Хатаке 30 см</name>
         <price>1690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-x/wc400/7517149449.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="2">
-        <name>Фигурка из аниме Наруто 3D Сакура Харуно 30 см</name>
         <price>1490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-4/wc400/7517149240.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="3">
-        <name>Фигурка из аниме Наруто 3D Минато 25 см</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-b/wc400/7517148419.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="4">
-        <name>Хентай фигурка 18+ из аниме Эта фарфоровая кукла влюбилась Марин Китагава 27 см</name>
         <price>1790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-7/wc400/7517148055.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="5-B">
-        <name>Фигурка 3D из аниме Кошачий рай (Nekopara) - Коконат (Coconut) 14 см (коробка)</name>
         <price>1490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7517148878.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="6-P">
-        <name>Хентай фигурка 18+ из аниме 3D девушка на кровати в школьной форме (пакет)</name>
         <price>3390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-f/wc400/6957525363.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="7">
-        <name>Пазл хентай деревянный с изображением аниме ахегао/охегао подарочный набор</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-k/wc400/7517147816.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="8">
-        <name>Кошелек из аниме Данганронпа Монокума 18 см</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-m/wc400/7517147638.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="9">
-        <name>Кошелек из аниме Моя геройская академия</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-v/wc400/7517147503.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="10">
-        <name>Кошелек из аниме Волейбол - Тобио Кагеяма</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-b/wc400/7517147555.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="11">
-        <name>Кошелек из аниме ДжоДжо - Йошикаге Кира</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-2/wc400/7517147222.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="12">
-        <name>Кошелек из аниме Клинок рассекающий демонов - Агацума Зеницу</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc400/7517146743.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="13">
-        <name>Кошелек из аниме Клинок рассекающий демонов - Кочо Шинобу</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-6/wc400/7517147082.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="14">
-        <name>Кошелек из игры Honkai: Star Rail - Bronya</name>
         <price>890.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>10</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-3/wc400/7517147007.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="15">
-        <name>Кошелек из аниме Атака титанов - Гербы</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-j/wc400/7014166795.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="16">
-        <name>Кошелек из аниме Волейбол - Сёё Хината</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-g/wc400/7517146804.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="17">
-        <name>Кошелек из аниме Клинок рассекающий демонов - Танджиро Камадо</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>12</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-3/wc400/7517147439.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="18">
-        <name>Брелок жетон металлический из аниме Токийские мстители - Манджиро Сано (Майки)</name>
         <price>490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>13</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc400/7517146581.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="19">
-        <name>Брелок жетон металлический из аниме Токийские мстители - Кен Рюгуджи (Дракен)</name>
         <price>490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>14</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-n/wc400/7517146235.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="20">
-        <name>Брелок жетон металлический из аниме Токийские мстители - Такемичи Ханагаки</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>15</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-y/wc400/7517146390.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="21">
-        <name>Брелок жетон металлический из аниме Токийские мстители - Такаши Мицуя</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>15</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc400/7517146311.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="22-P">
-        <name>Фигурка 3D из аниме Моя геройская академия (My Hero Academia) - Тору Хагакуре (Toru Hagakure) 14 см (пакет)</name>
         <price>2290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>16</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-b/wc400/7051763819.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="23-B">
-        <name>Фигурка 3D из аниме Токийский гуль (Tokyo Ghoul) - Канеки Кен Какуджа (Ken Kaneki Kakuja) 21 см (коробка)</name>
         <price>1490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>17</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7517145460.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="24-P">
-        <name>Фигурка персонаж из игры Genshin Impact (Геншин Импакт) Кэ Цин 24 см (пакет)</name>
         <price>1490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>18</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-6/wc400/7517144778.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="25">
-        <name>Пазл по аниме Волейбол (Haikyuu!!) - Команда на 1000 деталей 750x500 mm</name>
         <price>2190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>19</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-6/wc400/7517143878.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="26">
-        <name>Пазл по аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba) - Незуко Камадо на 1000 деталей 750x500 mm</name>
         <price>2190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>19</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-p/wc400/7517143429.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="27">
-        <name>Пазл по аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba) - Шинобу Кочо на 1000 деталей 750x500 mm</name>
         <price>2190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>19</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-a/wc400/7517143522.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="28">
-        <name>Подарочный набор аниме бокс по аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba)</name>
         <price>1190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>20</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-l/wc400/7517143281.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="29">
-        <name>Подарочный набор по аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba)</name>
         <price>1390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>21</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-6/wc400/7517143122.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="30">
-        <name>Игровой коврик для мышки с принтом Рей Аянами из аниме Евангелион (Evangelion) 40x60 см</name>
         <price>890.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>22</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-5/wc400/7517142689.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="31">
-        <name>Игровой коврик для мышки с принтом Пауэр из аниме Человек бензопила (Chainsaw Man) 40х90 см</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>23</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-5/wc400/7517142689.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="32">
-        <name>Коврик для мышки с принтом Аска из аниме Евангелион (Evangelion) 20x24 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>24</categoryId>
-        <picture>https://ir-3.ozone.ru/s3/multimedia-1-h/wc400/7517142449.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="33-B">
-        <name>Блокнот подарочный по аниме &quot;Тетрадь Смерти&quot; (Death Note)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>25</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-p/wc400/7069650505.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="34">
-        <name>LED светильник ночник Сёё Хината из аниме Волейбол!! (Haikyuu!!)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>26</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-n/wc400/7517141483.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="35">
-        <name>LED светильник ночник Тобио Кагеяма из аниме Волейбол!! (Haikyuu!!)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>26</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-f/wc400/7074680055.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="36">
-        <name>LED светильник ночник Кен Рюгуджи (Дракен) из аниме Токийские Мстители (Tokyo Revengers)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>26</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-t/wc400/7517142209.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="37">
-        <name>Хентай фигурка 18+ 3D из аниме Рандеву с жизнью (Date A Live) Куруми Токисаки</name>
         <price>1490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>27</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-c/wc400/7078113732.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="38">
-        <name>Хентай фигурка 18+ 3D из аниме Недельная сексуальная активность (Seikatsu Shuukan) +18</name>
         <price>1690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>28</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-l/wc400/7517135937.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="39">
-        <name>Гобелен плакат панно на стену Портгас Д. Эйс (Ace Portgas D.) из аниме Ван Пис (One Pice - Большой Куш)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/video-63/01JZDEB55RRS74PGVTD5A8FXPK/cover/wc1000/cover.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="40">
-        <name>Гобелен плакат панно на стену Пауэр (Power) из аниме Человек-бензопила (Chainsaw Man)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-o/wc400/7087873344.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="41">
-        <name>Гобелен плакат панно на стену Шоё Хината (Shoyo Hinata) из аниме Волейбол!! (Haikyu!!)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-0/wc400/7514984196.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="42">
-        <name>Гобелен плакат панно на стену Боа Хэнкок (Boa Hancock) из аниме Ван Пис (One Pice - Большой Куш)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7514984170.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="43">
-        <name>Кружка стакан из аниме Ван Пис (One Pice - Большой Куш) все персонажи 330 мл, 1 шт</name>
         <price>490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>30</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-6/wc400/7517134770.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="44">
-        <name>Кружка стакан из аниме ДжоДжо (JoJo) все персонажи 330 мл, 1 шт</name>
         <price>490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>31</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-q/wc1000/7517134250.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="45">
-        <name>Нендроид (Nendoroid) мини 3D фигурка из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Незуко Камадо (демон тип 1)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>32</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-m/wc400/7517133418.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="46">
-        <name>Нендроид (Nendoroid) мини 3D фигурка из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Незуко Камадо (человек)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>32</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-y/wc400/7517132674.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="47">
-        <name>Нендроид (Nendoroid) мини 3D фигурка из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Незуко Камадо (демон-человек)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>33</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-t/wc1000/7517132633.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="48">
-        <name>Нендроид (Nendoroid) мини 3D фигурка из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Иноске Хашибира (кабан)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>32</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-h/wc400/7517132873.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="49">
-        <name>Нендроид (Nendoroid) мини 3D фигурка из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Иноске Хашибира (человек)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>32</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7517133118.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="50">
-        <name>Нендроид (Nendoroid) мини 3D фигурка из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Зеницу Агацума</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>32</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7517133472.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="51">
-        <name>Нендроид (Nendoroid) мини 3D фигурка из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Зеницу Агацума (спящий)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7517132771.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="52">
-        <name>Нендроид (Nendoroid) мини 3D фигурка из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Танджиро Камадо</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>32</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7517133088.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="53-P">
-        <name>Нендроид (Nendoroid) мини фигурка 3D из аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba) - Незуко Камадо (Nezuko Kamado) 10 см (пакет)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-u/wc1000/7517132526.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="54">
-        <name>Гобелен плакат панно на стену Тосиро Хицугая (Toushirou Hitsugaya) из аниме Блич (Bleach)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7514984208.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="55">
-        <name>Гобелен плакат панно на стену Пауэр (Power) из аниме Человек-бензопила (Chainsaw Man)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7514984178.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="56">
-        <name>Гобелен плакат панно на стену Рей Аянами и Аска Сикинами Лэнгли из аниме Евангелион (Evangelion)</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-l/wc400/7517132373.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="57">
-        <name>Гобелен плакат панно на стену Рем и Рам (Rem and Ram) из аниме Re: Zero жизнь с нуля в другом мире</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir-3.ozone.ru/s3/multimedia-1-m/wc400/7516539634.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="58">
-        <name>Гобелен плакат панно на стену Кен Канеки (Ken Kaneki) из аниме Токийский гуль (Tokyo Ghoul)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-p/wc400/7514984221.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="59-B">
-        <name>Фигурка 3D из аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba) - Кокушибо (Kokushibo) 32 см (коробка)</name>
         <price>1790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>35</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-s/wc1000/7517130904.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="60-B">
-        <name>Фигурка 3D из аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba) - Даки (Daki) 28 см (коробка)</name>
         <price>1690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>36</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7517131864.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="61-B">
-        <name>Фигурка 3D высшая луна Гютаро из аниме Клинок, рассекающий демонов / Истрибитель демонов (Demon Slayer) 28 см (коробка)</name>
         <price>1790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>37</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-h/wc1000/7517128373.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="62-B">
-        <name>Фигурка 3D из аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba) - Иноске Хасибира (Inosuke Hashibira) 28 см (коробка)</name>
         <price>1790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>38</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7517131311.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="63-P">
-        <name>Фигурка 3D из аниме Ван Пис (One Piece) - Эдвард Ньюгейт (Edward Newgate) 27 см (пакет)</name>
         <price>1890.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>39</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-i/wc400/7517132190.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="64-B">
-        <name>Хентай фигурка 18+ 3D из аниме Кошачий рай (Nekopara) - Коконат (Coconut) 22 см (коробка)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>40</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-p/wc400/7861911937.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="65-P">
-        <name>Хентай фигурка 18+ 3D из аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba) - Шинобу Кочо (Shinobu Kocho) 22 см (пакет)</name>
         <price>1390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>41</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7517128699.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="66-P">
-        <name>Хентай фигурка 18+ 3D из аниме Ван Пис (One Piece) - Ямато (Yamato) 23 см (пакет)</name>
         <price>1390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>42</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7516829932.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="67-B">
-        <name>Фигурка 3D Первое дитя и пилот Евы-00 из аниме Евангелион (Evangelion) - Рей Аянами 20 см (коробка)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>43</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-n/wc400/7516829363.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="68-P">
-        <name>Фигурка 3D капитан европейских ВВС из аниме Евангелион (Evangelion) - Аска Сикинами Лэнгли 17 см (пакет)</name>
         <price>890.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>44</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc400/7524589077.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="69-P">
-        <name>Фигурка 3D из аниме Любимый во Франксе (Darling in the Franxx) - Ноль Два (Zero Two) 18 см (пакет)</name>
         <price>1190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>45</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-0/wc400/7516828440.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="70-B">
-        <name>Фигурка 3D из аниме Охотник х Охотник (Hunter x Hunter) - Киллуа Золдик (Killua Zoldyck)  см (коробка)</name>
         <price>1490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>46</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-g/wc400/7516827916.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="71">
-        <name>Кошелек Мугивара Соломенная шляпа из аниме Ван Пис (One Piece) - Монки Д. Луффи (Monkey D. Luffy)(тип 1)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-1/wc400/7516826641.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="72">
-        <name>Кошелек Охотник на пиратов из аниме Ван Пис (One Piece) - Ророноа Зоро (Roronoa Zoro)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>48</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-a/wc400/7516827370.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="73">
-        <name>Брелок-игрушка Пони Сумеречная Искорка розовая My Little Pony (Мой маленький пони) Брелок на ключи/на сумку/на портфель/детский/женский</name>
         <price>290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>49</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-n/wc400/7106190431.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="74">
-        <name>Акриловая фигурка/Фигурка-стенд/Статуэтка 2D Столп Пламени из аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu No Yaiba) - Кёджуро Ренгоку (Kyojuro Rengoku)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>50</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-1/wc400/7516825561.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="75">
-        <name>Акриловая фигурка/Фигурка-стенд/Статуэтка 2D из игры Геншин Импакт (Genshin Impact) - Итер (Iter)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>50</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-t/wc400/7516825949.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="76">
-        <name>Акриловая фигурка/Фигурка-стенд/Статуэтка 2D из игры Геншин Импакт (Genshin Impact) - Люмин (Lumine)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>51</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-a/wc400/7516824202.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="77">
-        <name>Деревянная фигурка/Фигурка-стенд/Статуэтка 2D из игры Геншин Импакт (Genshin Impact) - Венти (Venti)</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>52</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7516824511.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="78">
-        <name>Деревянная фигурка/Фигурка-стенд/Статуэтка 2D из игры Геншин Импакт (Genshin Impact) - Ху Тао (Hu Tao)</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>53</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-s/wc400/7108526800.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="79">
-        <name>Нендроид (Nendoroid) мини 3D фигурка из аниме Человек-бензопила (Chainsaw Man) - Дэнджи (Denji) 10 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>54</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-3/wc400/7516823943.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="80-B">
-        <name>Хентай фигурка 18+ 3D из аниме Лазурный путь (Azur Lane) - Ле Малин (Le Malin) 26 см (коробка)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>55</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-s/wc1000/7516820008.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="81-B">
-        <name>Фигурка 18+ 3D Капитан европейских ВВС из аниме Евангелион (Evangelion) - Аска Сикинами Лэнгли (Asuka Shikinami Langley) 23 см (коробка)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>56</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7516811428.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="81-P">
-        <name>Фигурка 3D Капитан европейских ВВС из аниме Евангелион (Evangelion) - Аска Сикинами Лэнгли (Asuka Shikinami Langley) 23 см (пакет)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>56</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7516811428.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="82-P">
-        <name>Хентай фигурка 18+ 3D Суккуб вампир из аниме Хаганай У меня мало друзей - Кобато Хасэгава (Kobato Hasegawa) 15 см (пакет)</name>
         <price>1390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>18</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7516822411.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="82-B">
-        <name>Хентай фигурка 18+ 3D Суккуб вампир из аниме Хаганай У меня мало друзей - Кобато Хасэгава (Kobato Hasegawa) 15 см (коробка)</name>
         <price>1390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>18</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7516822411.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="83-P">
-        <name>Хентай фигурка 18+ 3D Мягкий тип груди аниме школьница в юбке SKYTUBE JK 15 см (пакет)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>57</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7516818824.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="84">
-        <name>Ночник светильник картина в рамке из аниме Ван Пис (One Piece) - Монки Д. Луффи (Monkey D. Luffy) тип 1</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>58</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-q/wc400/7516806110.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="85">
-        <name>Ночник светильник картина в рамке из аниме Ван Пис (One Piece) - Монки Д. Луффи (Monkey D. Luffy) тип 2</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>58</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-p/wc400/7516804237.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="86">
-        <name>Ночник светильник картина в рамке из аниме Ван Пис (One Piece) - Монки Д. Луффи (Monkey D. Luffy) тип 3</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>58</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-m/wc400/7516803514.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="87">
-        <name>Ночник светильник картина в рамке из аниме Ван Пис (One Piece) - Монки Д. Луффи (Monkey D. Luffy) тип 4</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>58</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-f/wc400/7516809879.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="88">
-        <name>Ночник светильник картина в рамке из аниме Ван Пис (One Piece) - Ророноа Зоро (Roronoa Zoro)</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>58</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-h/wc400/7119536957.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="89">
-        <name>Ночник светильник картина в рамке из аниме Ван Пис (One Piece) - Винсмок Санджи (Vinsmoke Sanji)</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>36</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7516808212.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="90">
-        <name>Ночник светильник картина в рамке из аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba) - Тандзиро Камадо (Tanjiro Kamado)</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>58</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-2/wc400/7516810694.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="91">
-        <name>Ночник светильник картина в рамке из аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba) - Тандзиро Камадо ДЕМОН (Tanjiro Kamado DEMON)</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>58</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-f/wc400/7516804551.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="92">
-        <name>Ночник светильник картина в рамке из аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba) - Незуко Камадо (Nezuko Kamado)</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>58</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-j/wc400/7516807363.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="93">
-        <name>Ночник светильник картина в рамке из аниме Магическая битва (Jujutsu Kaisen) - Сатору Годзё (Satoru Gojo) тип 1</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>58</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-j/wc400/7516808803.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="94">
-        <name>Ночник светильник картина в рамке из аниме Магическая битва (Jujutsu Kaisen) - Сатору Годзё (Satoru Gojo) тип 2</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>58</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-c/wc400/7516804008.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="95">
-        <name>Ночник светильник картина в рамке из аниме игры Геншин Импакт (Genshin Impact) - Райден Эй (Raiden Ei)</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>58</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-b/wc400/7516806419.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="96">
-        <name>Ночник светильник картина в рамке из аниме игры Геншин Импакт (Genshin Impact) - Яэ Мико (Yae Miko)</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>58</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-e/wc400/7516810346.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="97">
-        <name>Кошелек Мугивара Соломенная шляпа из аниме Ван Пис (One Piece) - Монки Д. Луффи (Monkey D. Luffy) 5-й гир (тип 1)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>59</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-2/wc400/7516798634.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="98">
-        <name>Кошелек Мугивара Соломенная шляпа из аниме Ван Пис (One Piece) - Монки Д. Луффи (Monkey D. Luffy) 5-й гир (тип 2)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>60</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-c/wc400/7516798320.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="99">
-        <name>Кошелек пиратов Мугивары Соломенной шляпы из аниме Ван Пис (One Piece) - Пиратский флаг</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>48</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-5/wc400/7516797665.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="100">
-        <name>Кошелек Охотник на пиратов из аниме Ван Пис (One Piece) - Ророноа Зоро (Roronoa Zoro) (тип 2)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>59</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc400/7516799073.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="101">
-        <name>Кошелек пиратов все Йонко (Yonko) из аниме Ван Пис (One Piece)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-n/wc400/7516802579.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="102">
-        <name>Кошелек Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Зеницу Агацума (тип 1)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-2/wc400/7516801262.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="103">
-        <name>Кошелек Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Зеницу Агацума (тип 2)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-f/wc400/7516800087.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="104">
-        <name>Кошелек Демоны двенадцати лун из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Кокушибо и Доума</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-1/wc400/7516796581.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="105">
-        <name>Кошелек Столп Любви из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Мицури Канроджи</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-x/wc400/7516801761.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="106">
-        <name>Кошелек Охотников на демонов Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Танджиро Камадо</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc400/7516800693.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="107">
-        <name>Кошелек Охотников на демонов Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Незуко Камадо (тип 1)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>59</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc400/7516798083.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="108">
-        <name>Кошелек Охотников на демонов Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Незуко Камадо (тип 2)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7516799322.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="109">
-        <name>Кошелек Столп Пламени и Демоны двенадцати лун из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Кёджуро Ренгоку и Аказа</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-i/wc400/7516800486.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="110">
-        <name>Кошелек Столп Насекомого из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Шинобу Кочо</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-i/wc400/7516801530.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="111">
-        <name>Кошелек MARVEL Человек-Паук (Spider-Man) - Питер Паркер (Peter Parker) (тип 1)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>59</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-x/wc400/7516796253.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="112">
-        <name>Кошелек MARVEL Человек-Паук (Spider-Man) - Питер Паркер (Peter Parker) (тип 2)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>59</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-5/wc400/7516802741.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="113">
-        <name>Кошелек MARVEL Человек-Паук (Spider-Man) - Питер Паркер (Peter Parker) (тип 3)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>59</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-s/wc400/7516797004.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="114">
-        <name>Кошелек MARVEL Человек-Паук (Spider-Man) - Питер Паркер (Peter Parker) (тип 4)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-u/wc1000/7516801074.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="115">
-        <name>Кошелек MARVEL Человек-Паук (Spider-Man) - Питер Паркер (Peter Parker) (тип 5)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>59</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-a/wc400/7516802314.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="116">
-        <name>Кошелек Какуджа Cколопендра из аниме Токийский Гуль (Tokyo Ghoul) - Кен Канеки (Ken Kaneki) (тип 1)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>59</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-l/wc400/7516797897.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="117">
-        <name>Кошелек Какуджа Cколопендра из аниме Токийский Гуль (Tokyo Ghoul) - Кен Канеки (Ken Kaneki) (тип 2)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>59</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-3/wc400/7516799715.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="118">
-        <name>Кошелек из аниме Магическая битва (Jujutsu Kaisen) - Сатору Годзё (Satoru Gojo) (тип 1)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>59</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-w/wc400/7516797224.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="119">
-        <name>Кошелек Суккуна из аниме Магическая битва (Jujutsu Kaisen) - Юдзи Итадори и Сукуна Рёмен (тип 2)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>59</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-k/wc400/7516802036.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="120-B">
-        <name>Фигурка 3D Столп Любви из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Мицури Канроджи 22 см (коробка)</name>
         <price>2790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>61</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-7/wc1000/7227709387.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="121-B">
-        <name>Фигурка 3D Атакующий Титан из аниме &quot;Атака Титанов&quot; (Attack on Titan) - Эрен Йегер (Eren Yeager) 29 см (коробка)</name>
         <price>3190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>62</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7516795567.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="122-P">
-        <name>Фигурка 18+ +18 3D из аниме Мальчик-Ракета (Rocket Boy) - Ао-Они (Ao-Oni) 19 см (пакет)</name>
         <price>1990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>63</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7861955698.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="123-P">
-        <name>Фигурка 3D из аниме Реинкарнация безработного (Mushoku Tensei) - Рокси Мигурдиа (Roxy Migurdia) 25 см</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>45</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7516792071.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="123-B">
-        <name>Фигурка 3D из аниме Реинкарнация безработного (Mushoku Tensei) - Рокси Мигурдиа (Roxy Migurdia) 25 см (коробка)</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>45</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7516792071.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="124-P">
-        <name>Фигурка 3D из аниме Евангелион (Neon Genesis Evangelion) - Рей Аянами (Rei Ayanami) 17 см (пакет)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>14</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc1000/7516789425.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="125-B">
-        <name>Фигурка 3D из аниме Евангелион (Neon Genesis Evangelion) - Рей Аянами (Rei Ayanami) 23 см (коробка)</name>
         <price>990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>64</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7516790290.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="126">
-        <name>Фигурка 3D Мугивара Соломенная шляпа из аниме Ван Пис (One Piece) - Монки Д. Луффи (Monkey D. Luffy) Сакура 24 см</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>44</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-p/wc1000/7516789081.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="127">
-        <name>Наклейка голографическая (голограмма) из аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba) - Незуко Камадо голая</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-x/wc400/7152220689.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="128">
-        <name>Наклейка голографическая (голограмма) из аниме Пять невест - Нино Накано голая</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7152220728.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="129">
-        <name>Наклейка голографическая (голограмма) из аниме Человек-бензопила (Chainsaw Man) - Пауэр (Power) голая</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-6/wc400/7152220734.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="130">
-        <name>Наклейка голографическая (голограмма) из аниме Любимый во Франксе (Darling in the Franxx) - Ноль Два 02 голая Код 002 или Девятая Йота</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-u/wc1000/7152220686.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="131">
-        <name>Наклейка голографическая (голограмма) из аниме Эта фарфоровая кукла влюбилась - Марин Китагава</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-s/wc400/7276186108.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="132">
-        <name>Наклейка голографическая (голограмма) из аниме Пять невест - Мику Накано</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-1/wc400/7152220693.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="133">
-        <name>Наклейка голографическая (голограмма) из игры NieR: Automata - 2B Два Б</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-m/wc400/7152220714.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="134">
-        <name>Наклейка голографическая (голограмма) из аниме &quot;Атака Титанов&quot; (Attack on Titan) - Титаны отступники</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7152220698.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="135">
-        <name>Наклейка голографическая (голограмма) из игры Геншин Импакт (Genshin Impact) - Ху Тао (Hu Tao)</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7152220710.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="136">
-        <name>Кошелек из аниме Человек-бензопила (Chainsaw Man) - Дэнджи (Denji) (тип 1)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>60</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-d/wc400/7516785901.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="137">
-        <name>Кошелек из аниме игры Геншин Импакт (Genshin Impact) - Чжун Ли (Zhongli)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>60</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-w/wc400/7516786388.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="138">
-        <name>Кошелек из аниме Токийские мстители (Tokyo Revengers) - Кен Рюгуджи (Дракен)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7516787054.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="139">
-        <name>Кошелек Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Танджиро Камадо</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7516786627.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="140">
-        <name>Кошелек ниндзя из аниме Наруто (Naruto) - Наруто и Саске</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>60</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-c/wc400/7516786116.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="141-P">
-        <name>Фигурка 3D из аниме Твоя апрельская ложь (Your Lie in April) - Каори Миядзоно (Kaori Miyazono) 20 см (пакет)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>48</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7516731562.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="142-B">
-        <name>Фигурка 3D Охотник на пиратов из аниме Ван Пис (One Piece) - Ророноа Зоро (Roronoa Zoro) 30 см (коробка)</name>
         <price>2390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>66</categoryId>
-        <picture>https://ir-8.ozone.ru/s3/multimedia-1-o/wc1000/7516728564.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="143-B">
-        <name>Фигурка 3D из аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba) - Гёмей Химеджима (Gyomei Himejima) 32 см (коробка)</name>
         <price>1890.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>67</categoryId>
-        <picture>https://ir-8.ozone.ru/s3/multimedia-1-f/wc1000/7516725243.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="144-B">
-        <name>Фигурка 3D из фильма Человек-паук (Spider-Man) - Питер Паркер (Peter Parker) 20 см (коробка)</name>
         <price>2190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>68</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-3/wc400/7516727067.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="145-P">
-        <name>Фигурка 3D Симбиот Веном (Venom) из фильма Человек-паук (Spider-Man) - Эдди Брок (Eddie Brock) (пакет)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>69</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7516783995.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="146-P">
-        <name>Фигурка 3D из фильма Человек-паук (Spider-Man) - Питер Паркер (Peter Parker) 9 см (пакет)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>30</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-z/wc400/7516785635.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="147">
-        <name>Большой сквиш лапка / Игрушка антистресс / Кошачья лапа 12 x 12 см Розовый Прозрачный</name>
         <price>490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>70</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7516724082.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="148">
-        <name>Большой сквиш лапка / Игрушка антистресс / Кошачья лапа 12 x 12 см Фиолетовый Прозрачный</name>
         <price>490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>54</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7516723336.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="149">
-        <name>Большой сквиш лапка / Игрушка антистресс / Кошачья лапа 12 x 12 см Черный Прозрачный</name>
         <price>490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>71</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-f/wc400/7180441935.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="150">
-        <name>Игрушка антистресс хлеб/батон сквиш</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>72</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7516723609.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="151">
-        <name>Елка искусственная новогодняя Сосна пушистая с инеем и шишками, высота 210 см</name>
         <price>3390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>73</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc400/7180495245.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="152">
-        <name>Елка искусственная новогодняя Сосна пушистая с инеем и шишками, высота 60 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>15</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-5/wc400/7180495241.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="153-P">
-        <name>Хентай фигурка 18+ 3D SkyTube - Жасмин (Jasmine) 13 см (пакет)</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>74</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-u/wc1000/7516722342.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="154-P">
-        <name>Хентай фигурка 18+ 3D из аниме Пять невест (The Quintessential Quintuplets) - Итика Накано (Ichika Nakano) 14 см (пакет)</name>
         <price>890.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>75</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-8/wc1000/7516721276.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="155-P">
-        <name>Хентай фигурка 18+ 3D из аниме Эта фарфоровая кукла влюбилась (My Dress-Up Darling) - Марин Китагава (Marin Kitagawa) 12 см (пакет)</name>
         <price>890.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>76</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7494540183.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="155-B">
-        <name>Хентай фигурка 18+ 3D из аниме Эта фарфоровая кукла влюбилась (My Dress-Up Darling) - Марин Китагава (Marin Kitagawa) 12 см (коробка)</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>77</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7494540183.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="156">
-        <name>Хентай фигурка 3D в купальнике из аниме Пять невест - Мику Накано 12 см</name>
         <price>890.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>78</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-q/wc1000/7516718738.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="157-B">
-        <name>Хентай фигурка 18+ 3D из аниме Ван Пис (One Piece) - Боа Хэнкок (Boa Hancock) красный купальник (коробка)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>79</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7516719698.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="158-B">
-        <name>Хентай фигурка 18+ 3D из аниме Ван Пис (One Piece) - Боа Хэнкок (Boa Hancock) черный купальник (коробка)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>79</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7388559940.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="159">
-        <name>Кошелек Друг Гриффита из аниме Берсерк (Berserker) - Гатс (Guts)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-q/wc400/7516715426.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="160">
-        <name>Кошелек из аниме Блич (Bleach) - Куросаки Ичиго и Кучики Рукия</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-w/wc400/7516713668.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="161">
-        <name>Кошелек из аниме ДжоДжо (JoJo s Bizarre Adventure) (тип 1)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-o/wc400/7516716468.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="162">
-        <name>Кошелек из аниме Драгон Болл Dragon Ball - Сон Гоку Son Goku (тип 1)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>80</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7516710802.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="163">
-        <name>Кошелек из аниме Драгон Болл Dragon Ball - Сон Гоку Son Goku little (тип 2)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-g/wc400/7185976252.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="164">
-        <name>Кошелек из аниме Ван Пис (One Piece) - Ророноа Зоро (Roronoa Zoro)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-5/wc400/7516714937.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="165">
-        <name>Кошелек из аниме Ван Пис (One Piece) - Ророноа Зоро (Roronoa Zoro) little (тип 1)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-a/wc400/7516715914.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="166">
-        <name>Кошелек из аниме Кошелек Суккуна из аниме Магическая битва (Jujutsu Kaisen) - Юдзи Итадори и Сатору Годзё (Satoru Gojo) (тип 3)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-d/wc400/7516711165.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="167">
-        <name>Кошелек из аниме Токийские мстители (Tokyo Revengers) - Манджиро Сано (Майки)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc400/7516714365.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="168">
-        <name>Кошелек Какуджа Cколопендра из аниме Токийский Гуль (Tokyo Ghoul) - Кен Канеки (Ken Kaneki) (тип 3)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7516716971.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="169">
-        <name>Кошелек Какуджа Cколопендра из аниме Токийский Гуль (Tokyo Ghoul) - Кен Канеки (Ken Kaneki) (тип 4)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-e/wc400/7516717394.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="170">
-        <name>Кошелек из аниме игры Геншин Импакт (Genshin Impact) - Фурина (Furina)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-q/wc1000/7516716218.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="171">
-        <name>Кошелек из аниме Человек-бензопила (Chainsaw Man) - Дэнджи (Denji) (тип 2)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-u/wc1000/7516714602.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="172">
-        <name>Кошелек MARVEL Человек-Паук (Spider-Man) - Питер Паркер (Peter Parker) (тип 6)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7516717247.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="173">
-        <name>Кошелек MARVEL Человек-Паук (Spider-Man) - Питер Паркер (Peter Parker) (тип 7)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-7/wc1000/7516717099.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="174">
-        <name>Кошелек корейской гёрл-группы Black pink - Джису, Дженни, Розэ и Лисы</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc1000/7185976245.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="175-B">
-        <name>Фигурка 3D из аниме Ван Пис (One Piece) - Винсмок Санджи (Vinsmoke Sanji) 14 см (коробка)</name>
         <price>990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-7/wc1000/7516710367.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="176-B">
-        <name>Хентай фигурка 18+ 3D из аниме Blue Archive - Итиносэ Асуна (Ichinose Asuna) 24 см (коробка)</name>
         <price>4490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>81</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7245456931.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="177">
-        <name>Хентай фигурка 18+ подарочная мягкая грудь невеста полуголая с оружием Shibuya Scramble Figure Girls&apos; Frontline Suomi Kp-31 Mission Of Happiness Ver. 23 см</name>
         <price>3190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>82</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-7/wc400/7511707087.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="178-B">
-        <name>Фигурка 3D из аниме Hiiragi Yukibana - Хиираги Юкибана (Hiiragi Yukibana) 17 см (коробка)</name>
         <price>1690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>35</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-u/wc400/7511711430.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="179-B">
-        <name>Хентай фигурка 18+ 3D из аниме Azur Lane - Пола (Pola) 16 см (коробка)</name>
         <price>890.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>60</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7511698346.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="180">
-        <name>Хентай фигурка 18+ подарочная bunny girl из аниме Связанные небом - Сора Касугано (Sora Kasugano) 17 см</name>
         <price>990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>83</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-t/wc400/7511700377.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="181-P">
-        <name>Хентай фигурка 18+ 3D SkyTube - Хаймей Масоо (Haiume Masoo) 13 см (пакет)</name>
         <price>1390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>26</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-7/wc1000/7218210355.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="182">
-        <name>Фигурка 3D Код 002 или Девятая Йота из аниме Любимый во Франксе (Darling in the Franxx) - Ноль Два 02 23 см</name>
         <price>1390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>84</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-t/wc400/7511684645.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="183">
-        <name>Кошелек из аниме ДжоДжо (JoJo s Bizarre Adventure) (тип 2)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-h/wc1000/7508327453.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="184">
-        <name>Кошелек из аниме ДжоДжо (JoJo s Bizarre Adventure) (тип 3)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7508331991.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="185">
-        <name>Кошелек из аниме ДжоДжо (JoJo s Bizarre Adventure) (тип 4)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-8/wc1000/7511675480.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="186">
-        <name>Кошелек из аниме Драгон Болл Dragon Ball - Сон Гоку Son Goku (тип 3)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc400/7511681223.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="187">
-        <name>Кошелек из аниме Драгон Болл Dragon Ball - Сон Гоку Son Goku (тип 4)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7511674091.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="188">
-        <name>Кошелек из аниме Драгон Болл Dragon Ball - Сон Гоку Son Goku (тип 5)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-u/wc400/7511676834.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="189">
-        <name>Кошелек из аниме Ван Пис (One Piece) - Ророноа Зоро (Roronoa Zoro) little (тип 2)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>60</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-a/wc400/7511678506.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="190">
-        <name>Кошелек из аниме Кошелек Суккуна из аниме Магическая битва (Jujutsu Kaisen) (тип 4)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-g/wc400/7508322124.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="191">
-        <name>Кошелек из аниме Кошелек Суккуна из аниме Магическая битва (Jujutsu Kaisen) (тип 5)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>60</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-c/wc400/7508339112.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="192">
-        <name>Кошелек из аниме Человек-бензопила (Chainsaw Man) - Дэнджи (Denji) и Макима (тип 3)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-s/wc1000/7511622076.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="193">
-        <name>Кошелек MARVEL Человек-Паук (Spider-Man) - Питер Паркер (Peter Parker) (тип 8)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7511679756.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="194">
-        <name>Ночник светильник картина в рамке из аниме игры компании Crypton Future Media - Мику Хацунэ</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>85</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-h/wc400/7511616305.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="195">
-        <name>Хентай фигурка 18+ подарочная полуголая bunny girl из аниме Связанные небом - Сора Касугано (Sora Kasugano) 22 см</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7511615007.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="196-P">
-        <name>Фигурка 18+ подарочная из аниме Рандеву с жизнью (Date A Live) Куруми Токисаки 20 см (пакет)</name>
         <price>990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>86</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-e/wc400/7861868438.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="196-B">
-        <name>Фигурка подарочная из аниме Рандеву с жизнью (Date A Live) Куруми Токисаки 20 см (коробка)</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>87</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-e/wc400/7861868438.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="197-P">
-        <name>Хентай фигурка 18+ подарочная полуголая Эльфийка Девушка-рыцарь - Линсия 25 см (пакет)</name>
         <price>1690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>88</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-5/wc1000/7861929953.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="198-B">
-        <name>Фигурка 3D из аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba) - Хантенгу и Зохакутен (Hantengu &amp; Zohakuten) 31 см (коробка)</name>
         <price>1990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>89</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7238913450.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="199-P">
-        <name>Фигурка 3D из фильма Веном (Venom) - Клетус Кэссиди (Cletus Kasady) 20 см (пакет)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>90</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-m/wc1000/7511609830.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="200-B">
-        <name>Фигурка 3D Мугивара Соломенная шляпа из аниме Ван Пис (One Piece) - Монки Д. Луффи (Monkey D. Luffy) 17 см (тип 1)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>22</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-1/wc400/7238913445.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="201-P">
-        <name>Фигурка 3D из аниме Ван Пис (One Piece) - Монки Д. Луффи (Monkey D. Luffy) 14 см (тип 2) (пакет)</name>
         <price>990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7511595296.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="202">
-        <name>Фигурка 3D Акацки (Akatsuki) из аниме Наруто (Naruto) - Пеин (Pain) &amp; Нагато Узумаки (Nagato Uzumaki) 23 см</name>
         <price>1990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>35</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-v/wc400/7511608183.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="203">
-        <name>Фигурка 3D из аниме Драгон Болл Dragon Ball - Сон Гоку Son Goku MINI</name>
         <price>2090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>91</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-h/wc1000/7511605073.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="204">
-        <name>Фигурка 3D Охотник на пиратов из аниме Ван Пис (One Piece) - Ророноа Зоро (Roronoa Zoro) 15 см (тип 2) MINI</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>80</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-i/wc400/7511602698.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="205">
-        <name>Фигурка 3D Охотник на пиратов из аниме Ван Пис (One Piece) - Ророноа Зоро (Roronoa Zoro) 10 см (тип 3) MINI</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>90</categoryId>
-        <picture>https://ir-8.ozone.ru/s3/multimedia-1-a/wc1000/7238913454.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="206-B">
-        <name>Фигурка 3D Шачибукай сильнейший мечник из аниме Ван Пис (One Pice - Большой Куш) - Дракуль Михоук (Dracule Mihawk) 15 см MINI (коробка)</name>
         <price>1590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>92</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-t/wc400/7511596913.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="207">
-        <name>Фигурка 3D в подарок студентка из аниме Саю Огивара (Sayu Ogiwara) 15 см</name>
         <price>1490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>93</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-m/wc400/7268746702.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="208">
-        <name>Фигурка 3D в подарок Песня о долгом путешествии из Аркнайтс (Arknights) - Ангелина (Angelina) 25 см</name>
         <price>1490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>94</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-p/wc400/7861883353.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="209-B">
-        <name>Хентай фигурка 18+ 3D из аниме To Love-Ru Darkness - Лала Саталин Девилюк (Lala Satalin Deviluke) 22 см (коробка)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>95</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc1000/7511590377.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="210">
-        <name>Хентай фигурка 18+ из аниме Re: Zero Жизнь в альтернативном мире с нуля (Re Life in a Different World From Zero) - Рем (Rem) 13 см</name>
         <price>1190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>96</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-1/wc400/7560690337.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="211-B">
-        <name>Фигурка 3D из игры Genshin Impact - Райден Сёгун (Raiden Shogun) 31 см (коробка)</name>
         <price>4090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>97</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7511589054.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="212">
-        <name>Хентай дакимакура аниме подушка Столп Насекомого из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Шинобу Кочо 150x50 см</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>98</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-e/wc400/7304602010.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="213">
-        <name>Хентай дакимакура аниме подушка из аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba) - Незуко Камадо (Nezuko Kamado) 150x50 см</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>98</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-m/wc400/7304602018.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="214">
-        <name>Хентай дакимакура аниме подушка из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Зеницу Агацума 150x50 см</name>
         <price>1490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>98</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-m/wc1000/7511552338.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="215">
-        <name>Хентай дакимакура аниме подушка из игры Геншин Импакт (Genshin Impact) - Мона (Mona) 150x50 см</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>98</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-u/wc400/7304602098.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="216-B">
-        <name>Фигурка 3D в купальнике из аниме Синдуальность: Нуар (Synduality: Noir) - Нуар (Noir) 12 см (коробка)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>99</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7327439278.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="217-B">
-        <name>Фигурка 3D Самый сильный школьник из аниме Боец Баки (Baki the Grappler) - Ханма Баки (Hanma Baki) 15 см (коробка)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>77</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7328471906.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="217-P">
-        <name>Фигурка 3D Самый сильный школьник из аниме Боец Баки (Baki the Grappler) - Ханма Баки (Hanma Baki) 15 см (пакет)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>100</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7328471906.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="218-B">
-        <name>Фигурка 3D из аниме Боец Баки (Baki the Grappler) - Ханма Баки (Hanma Baki) 18 см (коробка)</name>
         <price>1490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>39</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7328474298.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="219-P">
-        <name>Фигурка 3D из аниме Боец Баки (Baki the Grappler) - Ханма Юдзиро (Hanma Yujiro) 22 см (пакет)</name>
         <price>1190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>101</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7328474383.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="220-P">
-        <name>Фигурка 3D Молчун из аниме Боец Баки (Baki the Grappler) - Ханаяма Каору (Hanayama Kaoru) 18 см</name>
         <price>1190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>86</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7328473147.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="220-B">
-        <name>Фигурка 3D из аниме Боец Баки (Baki the Grappler) - Ханаяма Каору (Hanayama Kaoru) 18 см (коробка)</name>
         <price>1190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>86</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7328473147.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="221-P">
-        <name>Фигурка 3D Человек, отказавшийся от будущего из аниме Боец Баки (Baki the Grappler) - Ханма Джек Хаммер (Jack Hanma) 22 см (пакет)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>102</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7328472630.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="222-P">
-        <name>Фигурка 3D из аниме Боец Баки (Baki the Grappler) - Пикл (Pickle) 21 см (коробка)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>103</categoryId>
-        <picture>https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7328471743.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="222-B">
-        <name>Фигурка 3D Примитивный доисторический пещерный человек из аниме Боец Баки (Baki the Grappler) - Пикл (Pickle) 21 см</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>103</categoryId>
-        <picture>https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7328471743.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="223">
-        <name>Кошелек из аниме игры Геншин Импакт (Genshin Impact) - Фурина (Furina) (тип 2)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir-3.ozone.ru/s3/multimedia-1-i/wc1000/7338139470.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="224">
-        <name>Кошелек из аниме игры Геншин Импакт (Genshin Impact)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-q/wc1000/7338139190.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="225">
-        <name>Кошелек из аниме игры Геншин Импакт (Genshin Impact) - Чжун Ли (Zhongli) (тип 2)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-u/wc1000/7338139446.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="226">
-        <name>Кошелек из аниме Человек-бензопила (Chainsaw Man) - Почито (тип 4)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-u/wc1000/7338139302.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="227">
-        <name>Кошелек из аниме Человек-бензопила (Chainsaw Man) - Дэнджи (Denji) и Макима (тип 5)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7338139456.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="228">
-        <name>Кошелек из аниме Человек-бензопила (Chainsaw Man) - Пауэр (Power) (тип 6)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7338139519.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="229">
-        <name>Кошелек из аниме Человек-бензопила (Chainsaw Man) - Дэнджи (Denji) и Почито (тип 7)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7338139323.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="230">
-        <name>Кошелек из аниме Человек-бензопила (Chainsaw Man) - Дэнджи (Denji) и Почито (тип 8)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7338139309.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="231">
-        <name>Кошелек из аниме Человек-бензопила (Chainsaw Man) - Дэнджи (Denji) и Макима (тип 9)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-u/wc1000/7338139734.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="232">
-        <name>Кошелек из аниме Человек-бензопила (Chainsaw Man) - Макима (тип 10)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7338139437.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="233">
-        <name>Кошелек из аниме Человек-бензопила (Chainsaw Man) - Макима (тип 11)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir-3.ozone.ru/s3/multimedia-1-l/wc1000/7338139437.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="234">
-        <name>Кошелек Охотников на демонов Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Танджиро Камадо (тип 1)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir-3.ozone.ru/s3/multimedia-1-i/wc1000/7338139722.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="235">
-        <name>Кошелек Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Незуко Камадо (тип 2)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-m/wc1000/7338139186.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="236">
-        <name>Кошелек Охотников на демонов Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Танджиро Камадо (тип 3)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7338139326.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="237">
-        <name>Кошелек Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Незуко Камадо (тип 4)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-d/wc1000/7338139393.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="238">
-        <name>Кошелек Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - главные персонажи (тип 5)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc1000/7338139497.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="239">
-        <name>Кошелек Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Танджиро Камадо (тип 6)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-p/wc1000/7338139333.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="240">
-        <name>Кошелек Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Незуко Камадо (тип 7)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7338139248.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="241">
-        <name>Кошелек Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Незуко Камадо (тип 8)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7338139452.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="242">
-        <name>Кошелек Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Зеницу Агацума (тип 9)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-h/wc1000/7338139433.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="243">
-        <name>Кошелек Столп Пламени и Демоны двенадцати лун из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Кёджуро Ренгоку (тип 10)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-z/wc1000/7338139595.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="244-P">
-        <name>Нендроид (Nendoroid) мини 3D фигурка из аниме Человек-бензопила (Chainsaw Man) - Дэнджи (Denji) 15 см (пакет)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>104</categoryId>
-        <picture>https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7494542108.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="245-P">
-        <name>Хентай фигурка 18+ 3D из аниме Mushoku Tensei - Рокси Мигурдия (Roxy Migurdia) 23 см (пакет)</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-d/wc1000/7516709365.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="246-B">
-        <name>Хентай фигурка 18+ 3D из аниме No Game No Life Zero - Шуви Дора (Shuvi Dola) 16 см (коробка)</name>
         <price>2090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>105</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc1000/7654847337.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="247-P">
-        <name>Фигурка 3D из аниме Твоя апрельская ложь (Your Lie in April) - Каори Миядзоно (Kaori Miyazono) 20 см (пакет)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>106</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-g/wc400/7424049076.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="248">
-        <name>Гобелен плакат панно на стену из аниме Блич (Bleach) - Тосиро Хицугая (Toushirou Hitsugaya) 70x25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-h/wc1000/7516395269.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="249">
-        <name>Гобелен плакат панно на стену из аниме Блич (Bleach) - Куросаки Ичиго (Kurosaki Ichigo) 70х25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-w/wc400/7425812516.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="250">
-        <name>Гобелен плакат панно на стену из аниме Атака Титанов (Attack on Titan) - Микаса Аккерман (Mikasa Ackerman) 70x25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7516401786.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="251">
-        <name>Гобелен плакат панно на стену из аниме Атака Титанов (Attack on Titan) - Эрен Йегер (Eren Yeager) 70x25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-5/wc1000/7516398677.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="252">
-        <name>Гобелен плакат панно на стену из аниме ДжоДжо (JoJo s Bizarre Adventure) - Джорно Джованна (Giorno Giovanna) 70x25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7516393132.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="253">
-        <name>Гобелен плакат панно на стену из игры Геншин Импакт (Genshin Impact) - Кэндис (Candace) 70x25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7516402558.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="254">
-        <name>Гобелен плакат панно на стену из игры Геншин Импакт (Genshin Impact) - Нахида (Nahida) 70x25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7516400523.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="255">
-        <name>Гобелен плакат панно на стену из игры Геншин Импакт (Genshin Impact) - Нинг Гуанг (Ningguang) 70x25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-m/wc400/7516416874.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="256">
-        <name>Гобелен плакат панно на стену Пауэр (Power) из аниме Человек-бензопила (Chainsaw Man) 70x25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7516390964.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="257-P">
-        <name>Фигурка 3D из аниме Эта фарфоровая кукла влюбилась (My Dress-Up Darling) - Марин Китагава (Marin Kitagawa) 19 см</name>
         <price>890.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>107</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7644934071.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="257-B">
-        <name>Фигурка 3D из аниме Эта фарфоровая кукла влюбилась (My Dress-Up Darling) - Марин Китагава (Marin Kitagawa) 19 см (коробка)</name>
         <price>890.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>107</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7644934071.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="258">
-        <name>Кошелек из аниме Человек-бензопила (Chainsaw Man) - Дэнджи (Denji) (тип 12)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-l/wc400/7532679837.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="259">
-        <name>Кошелек из фильма Человек паук (Spider man) - Питер Паркер (Peter Parker) (тип 9)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-5/wc1000/7542326453.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="260">
-        <name>Кошелек из аниме Клинок, рассекающий демонов (Demon cleaver blade) - Зеницу Агацума (Zenitsu Agatsuma) (тип 11)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-g/wc400/7542326464.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="261">
-        <name>Кошелек Охотников на демонов Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Танджиро Камадо (Tanjiro Kamado) (тип 12)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-x/wc400/7542326481.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="262">
-        <name>Кошелек из аниме Магическая битва (Jujutsu Kaisen) - Годжо Сатору (Gojo Satoru) (тип 6)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-b/wc400/7542326423.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="263">
-        <name>Кошелек Охотников на демонов Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Танджиро Камадо (Tanjiro Kamado) (тип 15)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-s/wc400/7542326440.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="264">
-        <name>Кошелек из аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba) - Шинобу Кочо (Shinobu Kocho) (тип 14)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7328473147.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="265">
-        <name>Кошелек Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Незуко Камадо (тип 13)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir-8.ozone.ru/s3/multimedia-1-2/wc1000/7542326414.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="266-P">
-        <name>Хентай фигурка 18+ 3D в купальнике из игры Супер Сонико (Super Sonico) 11 см (тип 1) (пакет)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>108</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc1000/7644934053.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="267-P">
-        <name>Хентай фигурка 3D в купальнике из игры Супер Сонико (Super Sonico) 11 см (тип 2) (пакет)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7644934054.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="267-B">
-        <name>Хентай фигурка 3D в купальнике из игры Супер Сонико (Super Sonico) 11 см (тип 2) (коробка)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7644934054.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="268-B">
-        <name>Хентай фигурка 18+ 3D из игры Super Sonico - Супер Сонико (Super Sonico) 13 см (тип 3) (коробка)</name>
         <price>990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7644934044.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="269-P">
-        <name>Хентай фигурка 18+ 3D из игры NieR: Automata - 2B (YoRHa No.2 Type B) 15 см (пакет)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>110</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc400/7542228573.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="270-P">
-        <name>Фигурка 3D Девушка-призрак (Ghost Girl) 21 см (пакет)</name>
         <price>990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>107</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7644934064.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="271-P">
-        <name>Фигурка 3D из аниме Рандеву с жизнью (Date A Live) - Тока Ятогами (Tohka Yatogami) 13 см (пакет)</name>
         <price>890.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>111</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-d/wc1000/7644934057.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="271-B">
-        <name>Фигурка 3D из аниме Рандеву с жизнью (Date A Live) - Тока Ятогами (Tohka Yatogami) 13 см (коробка)</name>
         <price>890.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>111</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-d/wc1000/7644934057.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="272-P">
-        <name>Фигурка 3D из аниме Как и ожидалось, моя школьная романтическая жизнь не удалась - Юкино Юкиношита (Yukino Yukinoshita) 20 см</name>
         <price>890.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>112</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-8/wc1000/7549029728.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="273">
-        <name>Хентай фигурка 18+ +18 3D из аниме Мальчик-Ракета (Rocket Boy) - Ао-Они (Ao-Oni) 21 см БОЛЬШАЯ</name>
         <price>1590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>58</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-p/wc400/7644934069.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="274">
-        <name>Наклейка голографическая (голограмма) из аниме Атака Титанов (Attack of the titans) - Эрен Йегер (Eren Yeager)</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7600342248.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="275">
-        <name>Наклейка голографическая (голограмма) из аниме Клинок рассекающий демонов (Demon Slayer: Kimetsu no Yaiba) - Зеницу Агацума</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir-8.ozone.ru/s3/multimedia-1-c/wc1000/7600342152.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="276">
-        <name>Наклейка Хентай голографическая (голограмма) Natsuiro no Uso - Madoka Hachise</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-8/wc1000/7635021848.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="277">
-        <name>Наклейка Хентай голографическая (голограмма) Хентай Большой сюжет</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7600342249.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="278">
-        <name>Наклейка Хентай голографическая (голограмма) Exhibitionist Eve</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7635021831.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="279">
-        <name>Наклейка Хентай голографическая (голограмма) Kuromine Aya</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7600342188.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="280">
-        <name>Наклейка Хентай голографическая (голограмма) горничная</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir-8.ozone.ru/s3/multimedia-1-0/wc1000/7735778640.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="281">
-        <name>Наклейка Хентай голографическая (голограмма) Tisshu karutamo</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-z/wc400/7635021839.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="282">
-        <name>Наклейка Хентай голографическая (голограмма) из аниме игры Genshin Impact - Люмин</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7600342174.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="283">
-        <name>Наклейка Хентай голографическая (голограмма) из аниме Милый во Франксе - ноль два</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-x/wc1000/7600342245.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="284">
-        <name>Наклейка Хентай голографическая (голограмма) Jeanne D&apos;Arc из Fate Grand Order Game</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-s/wc400/7600342204.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="285">
-        <name>Наклейка Хентай голографическая (голограмма) Мицури из Клинок расскеющих демонов</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-u/wc1000/7600342242.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="286">
-        <name>Наклейка Хентай голографическая (голограмма) Nel Zelpher из Star Ocean: Till the End of Time</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7600342191.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="287">
-        <name>Наклейка Хентай голографическая (голограмма) Гань Юй из Genshin Impact</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7600342154.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="288">
-        <name>Наклейка Хентай голографическая (голограмма) Sex Symbols</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir-8.ozone.ru/s3/multimedia-1-3/wc1000/7600342251.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="289">
-        <name>Кошелек из аниме игры Геншин Импакт (Genshin Impact) - Райден Эй (Raiden Ei)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7622307427.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="290">
-        <name>Кошелек из аниме Человек-бензопила (Chainsaw Man) - Почито (тип 13)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-5/wc400/7622307401.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="291">
-        <name>Гобелен плакат панно на стену Дитя Демона из аниме Ван Пис (One Piece) - Нико Робин (Nico Robin) 70х25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7622618188.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="292">
-        <name>Гобелен плакат панно на стену Кошка-воровка из аниме Ван Пис (One Piece) - Нами (Nami) 70х25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://www.ozon.ru/product/gobelen-plakat-panno-na-stenu-koshka-vorovka-iz-anime-van-pis-one-piece-nami-nami-70h25-sm-2297512787/</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="293">
-        <name>Гобелен плакат панно на стену Хирург смерти из аниме Ван Пис (One Piece) - Трафальгар Д. Ватер Ло (Trafalgar D. Water Law) 70х25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7622618146.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="294">
-        <name>Гобелен плакат панно на стену Божественный хранитель Карасуно из аниме Волейбол!! (Haikyuu!!) - Юу Нишиноя (Yuu Nishinoya) 70х25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7622618132.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="295">
-        <name>Гобелен плакат панно на стену Король площадки из аниме Волейбол!! (Haikyuu!!) - Тобио Кагеяма (Tobio Kageyama) 70х25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7622618211.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="296">
-        <name>Гобелен плакат панно на стену из аниме ДжоДжо (JoJo s Bizarre Adventure) - Дзёсукэ Хигасиката (Josuke Higashikata) 70х25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-5/wc1000/7622618153.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="297">
-        <name>Гобелен плакат панно на стену из аниме ДжоДжо (JoJo s Bizarre Adventure) - Нориаки Какёин (Noriaki Kakyoin) 70х25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7622618171.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="298">
-        <name>Хентай фигурка 18+ подарочная коллекционная (Ishikei Creator&apos;s Collection) Мальчик-ракета (Rocket Boy) - Чие (Chie)</name>
         <price>1390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-s/wc1000/7739195968.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="299">
-        <name>Хентай фигурка 18+ подарочная коллекционная Юмия Нацу (Yumiya Natsu) 20.5 см</name>
         <price>1190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>100</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-u/wc400/7628631654.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="300">
-        <name>Хентай фигурка 18+ подарочная коллекционная из аниме Волшебная Пуля (Magic Bullet) - Сугата Зеро (Sugata Zero) 24 см</name>
         <price>2390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>91</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-5/wc400/7632971249.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="301-B">
-        <name>Фигурка 3D из аниме Ван Пис (One Piece) - Монки Д. Луффи (Monkey D. Luffy) 19 см (5 Gear) (коробка)</name>
         <price>1490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>93</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-8/wc1000/7709689916.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="302-B">
-        <name>Фигурка 3D из аниме Ван Пис (One Piece) - Монки Д. Луффи (Monkey D. Luffy) 25 см (4 Gear) (коробка)</name>
         <price>2790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>113</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7709689908.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="303-B">
-        <name>Фигурка 3D из аниме Эта фарфоровая кукла влюбилась (My Dress-Up Darling) - Марин Китагава (Marin Kitagawa) 18 см (коробка)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>114</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7709038597.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="304">
-        <name>Настольная игра Монополия &quot;Города России&quot; обучающая экономическая игра для детей и взрослых, логика, стратегия, бизнес</name>
         <price>1490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>115</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc1000/7659532413.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="305">
-        <name>Милый брелок Labubu Кола (Cola) — игрушка монстрик The Monsters, украшение для рюкзака, подарок детям и фанатам</name>
         <price>1190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>116</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7606032844.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="306-B">
-        <name>Фигурка 3D из аниме Ван Пис (One Piece) - Ророноа Зоро (Roronoa Zoro) 28 см (коробка)</name>
         <price>1690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>117</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7709014518.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="307">
-        <name>Взрывные Котята (Exploding Kittens) - Веселая настольная игра для вечеринки / для семьи / в подарок для детей</name>
         <price>490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>118</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7812678528.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="308-B">
-        <name>Фигурка 3D из игры The King of Fighters - Афина Асамиа (Athena Asamiya) 22 см (коробка)</name>
         <price>1390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>93</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7714789155.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="309">
-        <name>Интерактивная игрушка Танцующий Лабубу - с музыкой и движением для детей 19*15*9 см</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>119</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7718476790.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="310">
-        <name>Интерактивная игрушка Танцующий Лабубу - с музыкой и движением для детей 19*15*9 см</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>119</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-7/wc1000/7718565787.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="311">
-        <name>Брелок пушистый для ключей и автомобиля, меховой помпон розовый 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>120</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-z/wc1000/7719797195.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="312">
-        <name>Брелок пушистый для ключей и автомобиля, меховой помпон фиолетовый 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>120</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc1000/7719886089.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="313">
-        <name>Брелок пушистый для ключей и автомобиля, меховой помпон красный 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>120</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7719991652.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="314">
-        <name>Брелок пушистый для ключей и автомобиля, меховой помпон зеленый 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>120</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7720075870.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="315">
-        <name>Мягкая игрушка Овечка коричневая плюшевый барашек 22*13*25 см</name>
         <price>890.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>121</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7720247524.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="316">
-        <name>Кошелек Охотников на демонов Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Танджиро Камадо (Tanjiro Kamado) (тип 16)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7720316804.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="317">
-        <name>Кошелек Охотников на демонов Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Танджиро Камадо (Tanjiro Kamado) (тип 17)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-2/wc400/7721954714.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="318">
-        <name>Кошелек Охотников на демонов Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Зеницу Агацума (Zenitsu Agatsuma) (тип 18)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7722056947.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="319">
-        <name>Кошелек Охотников на демонов Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Тенген Узуй (Uzui tengen) (тип 19)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-8/wc1000/7722439676.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="320">
-        <name>Кошелек Охотников на демонов Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Ренгоку Кеджуро (Kyoujurou Rengoku) (тип 20)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-k/wc400/7722743168.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="321">
-        <name>Кошелек Охотников на демонов Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Танджиро Камадо (Tanjiro Kamado) (тип 21)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc1000/7723049589.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="322">
-        <name>Кошелек Охотников на демонов Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Муичиро Токито (Muichiro Tokitou) (тип 22)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-q/wc1000/7723248866.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="323">
-        <name>Кошелек Охотников на демонов из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Незуко Камадо (Nezuko Kamado) (тип 23)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7723066807.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="324">
-        <name>Кошелек Охотников на демонов Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Танджиро Камадо (Tanjiro Kamado) (тип 24)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7723268610.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="325">
-        <name>Кошелек Охотников на демонов Хашира из аниме &quot;Клинок, рассекающий демонов&quot; (Demon Slayer: Kimetsu no Yaiba) - Танджиро Камадо (Tanjiro Kamado) Незуко Камадо (Nezuko Kamado) (тип 25)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>47</categoryId>
-        <picture>https://ir-3.ozone.ru/s3/multimedia-1-x/wc1000/7723771845.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="326">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины Геншин Импакт (Genshin Impact)15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7723629571.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="327">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме Человек-Бензопила (Chainsaw man) - Макима (Makima) 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-u/wc1000/7723800894.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="328">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме Человек-Бензопила (Chainsaw man) - Почито (Pochita) 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir-3.ozone.ru/s3/multimedia-1-i/wc1000/7728078798.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="329">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме Атака титанов (Attack on Titan) - Райнер Браун (Reiner Braun) 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7728137400.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="330">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины Аниме &quot;Атака Титанов&quot; (Attack on Titan) - Титаны отступники 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir-3.ozone.ru/s3/multimedia-1-5/wc1000/7729018133.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="331">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме Клинок, рассекающий демонов (Kimetsu no Yaiba) - Иноске Хашибира (Inosuke Hashibira) -15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7729230022.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="332">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме Клинок, рассекающий демонов вики (Kimetsu no Yaiba) - Ренгоку Кеджуро (Kyoujurou Rengoku)</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-x/wc1000/7730088225.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="333">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме Магическая битва (Jujutsu Kaisen) Сатору Годжо (Gojo Satoru) 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7730158318.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="334">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме Azur Lane в купальнике 18+ 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir-3.ozone.ru/s3/multimedia-1-q/wc1000/7730366030.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="335">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме Магическая битва (Jujutsu Kaisen) персонаж Сатору Годжо (Gojo Satoru)15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc1000/7733095173.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="336">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме Магическая битва (Jujutsu Kaisen) Юдзи Итадори 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7733223592.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="337">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины аниме Магическая битва (Jujutsu Kaisen) персонаж Юджи Итодори (Yuji Itadori) 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7733440399.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="338">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме One piece.Большой куш. - Монки Д.Луффи (Monkey D.Luffy) 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-z/wc1000/7733519999.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="339">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме One Piece - Монки Д.Луффи Соломенная шляпа 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-u/wc1000/7733570754.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="340">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме One Piece Gear 5 (Гир 5) 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-s/wc1000/7734126124.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="341">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме One Piece - Монки Д.Луффи Соломенная шляпа 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-7/wc1000/7734152995.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="342">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме Клинок, рассекающий демонов вики ( Kimetsu no yaiba wiki) - Незуко Камадо ( Kamado Nezuko) 15 см 18+</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7734174039.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="343">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме Клинок, рассекающий демонов (Kimetsu no Yaiba) - Шинобу Кочо (Kocho Shinobu) 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-t/wc1000/7734190889.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="344">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме &quot; Атака титанов&quot; (Attack on Titan) - Микаса Аккерман (MiKasa Ackerman) 18+ 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-t/wc1000/7734225233.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="345">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме Атака на титанов (Attack on Titan) - персонаж Микаса Аккерман (Mikasa Ackerman) 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7734231663.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="346">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме DanMachi - Hestia Bunny Girl (девочка-кролик Гестия) 18+ 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc1000/7738923033.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="347">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме Врата Штейна (Steins Gate) Курису Макисэ (Kurisu Makise) 18+ 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7742740443.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="348">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме персонаж Како Такафуджи (Kako Takafuji)15 см 18+</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-p/wc1000/7742950765.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="349">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины аниме-девушка в купальнике полуголая 15 см 18+</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7743947195.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="350">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины аниме-школьница в купальнике 18+ 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7744025778.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="351">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины аниме Нел Зелфер 18+ 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7745847592.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="352">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины из аниме Fate/Extra Нерона Клавдия Цезария Августа Германика 18+ 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7746034033.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="353">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины аниме-девушка в нижнем белье полуголая 15 см 18+</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7747380452.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="354">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины аниме-девушка в блузке полуголая 15 см18+</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-z/wc1000/7747445807.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="355">
-        <name>Наклейка голографическая для компьютера/ноутбука/машины аниме One Piece Ямато 15 см</name>
         <price>390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-z/wc1000/7747470719.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="356">
-        <name>Развивающая игра &quot;Набор плотника + конструктор в чемодане&quot; для детей от 3-х лет</name>
         <price>1790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>122</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-7/wc1000/7761377095.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="357">
-        <name>Веселая настольная игра &quot;Взрывные котята 18+&quot; для компании/для вечеринки/для семьи</name>
         <price>490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>123</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-2/wc400/7759243262.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="358">
-        <name>Веселая настольная игра &quot;Зомби котята&quot; для компании/для вечеринки/для семьи</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>124</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-3/wc400/7765559319.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="359">
-        <name>Русское лото для всей семьи с деревянными бочонками, картами, жетонами, мешочком</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>104</categoryId>
-        <picture>https://ir-8.ozone.ru/s3/multimedia-1-f/wc1000/7759416687.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="360">
-        <name>Веселая настольная игра &quot;Лающие котята&quot; для компании/для вечеринки/для семьи</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>124</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7765225306.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="361">
-        <name>Гобелен плакат панно на стену Камисато Аяка (Ayaka Kamisato) из игры Genshin Impact 57*35 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-h/wc1000/7780591961.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="362">
-        <name>Гобелен плакат панно на стену Сегун Райдэн (Raiden Shogun) из игры Genshin Impact 57*35 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-z/wc1000/7780811363.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="363">
-        <name>Гобелен плакат панно на стену Бьякуя Кучики (Byakuya Kuchiki) из аниме и манги Блич (Bleach) 70*25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-q/wc1000/7781402834.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="364">
-        <name>Гобелен плакат панно на стену Монки Д. Луффи (Luffy Monkey D.) из аниме и манги One Piece. Большой куш 70*25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-4/wc1000/7781667628.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="365">
-        <name>Гобелен плакат панно на стену Тоджи Фушигуро (Toji Fushiguro) из аниме и манги &quot;Магическая битва&quot; (Jujutsu Kaisen) 70*25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7781721553.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="366">
-        <name>Гобелен плакат панно на стену Ремен Сукуна (Ryomen Sukuna) из манги и аниме-сериала Магическая битва (Jujutsu Kaisen) 70*25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir-8.ozone.ru/s3/multimedia-1-e/wc400/7781770814.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="367">
-        <name>Гобелен плакат панно на стену Тосиро Хицугая (Toushirou Hitsugaya) из аниме и манги Блич (Bleach) 70*25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir-8.ozone.ru/s3/multimedia-1-5/wc1000/7783852253.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="368">
-        <name>Гобелен плакат панно на стену Годжо Сатору (Gojo Satoru) из аниме Магическая битва (Jujutsu Kaisen) 70*25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-n/wc400/7784718791.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="369">
-        <name>Гобелен плакат панно на стену Сето Тодороки (Shouto Todoroki) из аниме и манги Моя геройская академия (Boku no Hero Academia) 70*25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-s/wc1000/7784872588.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="370">
-        <name>Гобелен плакат панно на стену Мику Хацунэ (Miku Hatsune) 70*25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7785027972.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="371">
-        <name>Гобелен плакат панно на стену Джотаро Куджо (Joutarou Kuujou) из вселенной ДжоДжо JoJo s Bizarre Adventure</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-5/wc1000/7785065885.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="372-B">
-        <name>Фигурка 3D из аниме &quot;Реинкарнация безработного: История о приключениях в другом мире&quot; (Mushoku Tensei: Isekai Ittara Honki Dasu) - Рокси Мигурдиа (Roxy Migurdia) 20 см (коробка)</name>
         <price>890.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <picture>https://ir-8.ozone.ru/s3/multimedia-1-c/wc1000/7789787472.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="373-B">
-        <name>Фигурка 3D из аниме из аниме &quot;Этот глупый свин не понимает мечту девочки-зайки&quot; (Rascal Does Not Dream of Bunny Girl Senpai) - Маи Сакурадзима (Mai Sakurajima) 23 см (коробка)</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>125</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7789864068.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="374-B">
-        <name>Фигурка 3D из аниме Мику Хацунэ (Hatsune Miku) 28 см (коробка)</name>
         <price>1190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://ir-8.ozone.ru/s3/multimedia-1-9/wc1000/7790214285.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="375-B">
-        <name>Хентай фигурка 18+ 3D из аниме Evangelion - Аска Лэнгли (Asuka Langley) 23 см (коробка)</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>20</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7790078397.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="376-B">
-        <name>Фигурка подарочная коллекционная из аниме и манги Клинок, рассекающий демонов (Kimetsu no Yaiba) - Санеми Шинадзугава (Sanemi Shinazugawa) 30 см (коробка)</name>
         <price>1790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>126</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7792601607.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="377-B">
-        <name>Фигурка 3D из аниме Клинок, рассекающий демонов (Demon Slayer: Kimetsu no Yaiba) - Аказа (Akaza) 28 см (коробка)</name>
         <price>1790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>127</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7792779764.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="378-B">
-        <name>Фигурка подарочная коллекционная из аниме и манги Девочка-волшебница Мадока Магика (Puella Magi Madoka Magica) - Мадока Канаме (Madoka Kaname) 24 см (коробка)</name>
         <price>1390.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>93</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-s/wc1000/7793378560.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="379-P">
-        <name>Фигурка подарочная коллекционная MARVEL &quot;Маленький железный человек на подставке&quot; 9 см (пакет)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>108</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7804927620.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="380-B">
-        <name>Фигурка подарочная коллекционная подвижная MARVEL &quot;Марио с перчаткой и мячом&quot; 35 см (коробка)</name>
         <price>1990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>128</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-t/wc1000/7807071125.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="381-B">
-        <name>Фигурка подарочная коллекционная подвижная MARVEL &quot;Марио с дубинкой&quot; 35 см (коробка)</name>
         <price>1990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>128</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-8/wc1000/7810511228.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="382-B">
-        <name>Фигурка подарочная коллекционная подвижная MARVEL &quot;Марио с грибочком&quot; 35 см (коробка)</name>
         <price>1990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>128</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7810421664.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="383-B">
-        <name>Фигурка подарочная коллекционная подвижная MARVEL &quot;Капитан америка&quot; 30 см (коробка)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>129</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-8/wc1000/7814225888.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="384-B">
-        <name>Фигурка подарочная коллекционная подвижная MARVEL &quot;Железный человек&quot; 30 см (коробка)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>13</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7814471468.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="385-B">
-        <name>Фигурка подарочная коллекционная подвижная MARVEL &quot;Человек-паук&quot; 30 см (коробка)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>13</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7814812446.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="386-B">
-        <name>Фигурка подарочная коллекционная подвижная MARVEL &quot;Веном красный&quot; 30 см (коробка)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>129</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7815779916.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="387-B">
-        <name>Фигурка подарочная коллекционная подвижная MARVEL &quot;Веном черный&quot; 30 см (коробка)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>129</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7819265862.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="388-B">
-        <name>Фигурка подарочная коллекционная подвижная MARVEL &quot;Халк&quot; 30 см (коробка)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>129</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-p/wc1000/7819587133.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="389-B">
-        <name>Фигурка подарочная коллекционная подвижная MARVEL &quot;Веном черный&quot; 33 см (коробка)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>85</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-5/wc1000/7819875977.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="390-B">
-        <name>Фигурка подарочная коллекционная подвижная MARVEL &quot;Росомаха&quot; 33 см (коробка)</name>
         <price>1790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>130</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-9/wc1000/7820054541.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="391-B">
-        <name>Фигурка подарочная коллекционная подвижная MARVEL &quot;Халк&quot; 30 см (коробка)</name>
         <price>1790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>130</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7820071188.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="392-B">
-        <name>Фигурка подарочная коллекционная подвижная MARVEL &quot;Набор супергероев Марвел 10 штук&quot; 15 см (коробка)</name>
         <price>1790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>56</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7814514879.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="393-B">
-        <name>Фигурка 3D из аниме Побрился. Затем привел домой старшеклассницу - Саю Огивара (Sayu Ogiwara) 15 см (коробка)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-p/wc1000/7819264537.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="394">
-        <name>Гобелен плакат панно на стену Любитель сладкой ваты Тони Тони Чоппер (Tony Tony Chopper) из аниме Ван Пис (One Pice - Большой Куш) 70x25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-h/wc1000/7865904005.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="395">
-        <name>Кошелек из аниме игры Геншин Импакт (Genshin Impact) - Барбара (Barbara)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>64</categoryId>
-        <picture>https://ir-3.ozone.ru/s3/multimedia-1-b/wc1000/7966848611.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="396">
-        <name>Гобелен плакат панно на стену Денджи-Демон (Denji) из аниме &quot;Человек-Бензопила&quot; (Chainsaw Man) 70 х 25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir-3.ozone.ru/s3/multimedia-1-i/wc1000/7970964318.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="397">
-        <name>Гобелен плакат панно на стену Йор Форджер (Yor Forger) из аниме &quot;Семья шпионов&quot; (Spy x Family) 70 х 25 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir-3.ozone.ru/s3/multimedia-1-r/wc1000/7970964147.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="398-B">
-        <name>Фигурка подарочная коллекционная 18+ из аниме &quot;Восхождение героя щита&quot; (The Rising of the Shield Hero) - Рафталия (Raphtalia) 21 см (коробка)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>124</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7978741562.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="399-P">
-        <name>Фигурка подарочная коллекционная 18+ из игры &quot;Honkai Impact&quot; - Яэ Сакура (Yae Sakura) 21 см</name>
         <price>1490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>131</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-h/wc1000/7978741685.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="400-P">
-        <name>Фигурка подарочная коллекционная 18+ из аниме &quot;Пять невест&quot; (The Quintessential Quintuplets) - Итика Накано (Ichika Nakano) 21 см (пакет)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>132</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7978741555.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="401-P">
-        <name>Фигурка подарочная коллекционная 18+ из аниме &quot;Пять невест&quot; (The Quintessential Quintuplets) - Нино Накано (Nino Nakano) 21 см (пакет)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>71</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7978741571.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="402-P">
-        <name>Фигурка подарочная коллекционная 18+ из аниме &quot;Пять невест&quot; (The Quintessential Quintuplets) - Ицуки Накано (Ichika Nakano) 21 см (пакет)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>71</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-m/wc1000/7978741654.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="403-P">
-        <name>Фигурка из аниме &quot;Моя милая кошечка&quot; (Uchi no Neko ga Onnanoko de Kawaii) - Кинако (Kinako) 9 см (пакет)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>133</categoryId>
-        <picture>https://ir-8.ozone.ru/s3/multimedia-1-v/wc1000/8081900887.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="404-P">
-        <name>Фигурка 3D из аниме Yosuga no Sora - Касугано Сора (Kasugano Sora) 23 см (пакет)</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>134</categoryId>
-        <picture>https://ir-8.ozone.ru/s3/multimedia-1-e/wc1000/8081900726.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="405-B">
-        <name>Фигурка подарочная коллекционная Годзё Сатору/Gojo Satoru из аниме &quot;Магическая битва&quot; (Jujutsu Kaisen) 34см</name>
         <price>2490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>135</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-b/wc1000/8107305167.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="406-P">
-        <name>Фигурка 3D из аниме Эта фарфоровая кукла влюбилась (My Dress-Up Darling) - Марин Китагава (Marin Kitagawa) 13 см (пакет)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>136</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-p/wc400/8134386613.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="407-P">
-        <name>Фигурка подарочная коллекционная 18+ из аниме &quot;Пять невест&quot; (The Quintessential Quintuplets) - Ёцуба Накано (Yotsuba Nakano Aqua Float Girls) 21 см (пакет)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>132</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc1000/8209825335.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="408-P">
-        <name>Фигурка подарочная коллекционная 18+ из аниме &quot;Пять невест&quot; (The Quintessential Quintuplets) - Мику Накано (Miku Nakano) 21 см (пакет)</name>
         <price>690.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>132</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-c/wc1000/8209825392.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="409-P">
-        <name>Набор фигурок 3D из аниме Охотник х Охотник (Hunter x Hunter) - Киллуа Золдик (Killua Zoldyck) и Гон Фрикс (Gon Freecss) 13 см (пакет)</name>
         <price>990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>134</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-j/wc1000/8401572271.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="410-P">
-        <name>Фигурка коллекционная подарочная - Шинобу Кочо из аниме &quot;Клинок, рассекающий демонов&quot; 15 см (пакет)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>137</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-5/wc1000/8399631677.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="411-P">
-        <name>Фигурка 3D из аниме Реинкарнация безработного (Mushoku Tensei) - Рокси Мигурдиа (Roxy Migurdia) 12 см (пакет)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>138</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-y/wc1000/8400110398.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="412-P">
-        <name>Фигурка 3D из аниме Семь смертных грехов (Seven Deadly Sins) - Мелиодас (Meliodas) 18 см (пакет)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>69</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-t/wc1000/8386349969.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="413-P">
-        <name>Фигурка коллекционная подарочная - Сент-Луис из аниме &quot;Лазурный путь&quot; 26 см (пакет)</name>
         <price>990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>65</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-4/wc1000/8400214084.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="414-P">
-        <name>Фигурка коллекционная подарочная - Лала из аниме &quot;Саталин Девилюк&quot; 16 см 18+ (пакет)</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>139</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-j/wc1000/8400622051.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="415-P">
-        <name>Фигурка 3D из аниме Поднятие уровня в одиночку (Solo Leveling) - Игрис (Igris) 22 см (пакет)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>140</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-i/wc400/8400716946.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="416-P">
-        <name>Фигурка Shiny Series Little Demon Lilith - Демоница Лилит 27 см (пакет)</name>
         <price>1090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>141</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-a/wc400/8400989350.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="417-P">
-        <name>Фигурка 3D из аниме Лазурный путь (Azur Lane) - Сент-Луис (Saint Louis) 25 см (пакет)</name>
         <price>990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>142</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-5/wc1000/8401146773.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="417-B">
-        <name>Фигурка 3D из аниме Лазурный путь (Azur Lane) - Сент-Луис (Saint Louis) 25 см (коробка)</name>
         <price>990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>142</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-5/wc1000/8401146773.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="418">
-        <name>Гобелен плакат панно на стену Джонатан Джостар из аниме ДжоДжо (JoJo&apos;s Bizarre Adventure) зеленый 70 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-6/wc1000/8451049002.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="419">
-        <name>Гобелен плакат панно на стену Джонатан Джостар из аниме ДжоДжо (JoJo&apos;s Bizarre Adventure) синий 70 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-n/wc1000/8451124907.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="420-B">
-        <name>Фигурка 3D из аниме Кошачий рай (Nekopara) - Азуки (Azuki) 14 см (коробка)</name>
         <price>1190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>143</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-r/wc1000/8481984903.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="421">
-        <name>Гобелен плакат панно на стену Аки Хаякава из аниме &quot;Человек - бензопила&quot; 70 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-e/wc1000/8451355874.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="422-P">
-        <name>Фигурка коллекционная подарочная - Девушка-кролик из аниме 18 см (пакет)</name>
         <price>990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>144</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-g/wc1000/8482119712.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="423-P">
-        <name>Фигурка коллекционная Изуку Мидория из аниме &quot;Моя геройская академия&quot; 11 см (пакет)</name>
         <price>1190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>124</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-t/wc1000/8482167461.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="423-B">
-        <name>Фигурка коллекционная подарочная Изуку Мидория из аниме &quot;Моя геройская академия&quot; 11 см (коробка)</name>
         <price>1190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-t/wc1000/8482167461.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="423-P">
-        <name>Фигурка коллекционная подарочная Изуку Мидория из аниме &quot;Моя геройская академия&quot; 11 см (пакет)</name>
         <price>1190.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>145</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-t/wc1000/8482167461.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="424">
-        <name>Фигурка коллекционная подарочная Два Б - Nier automata YoRHa No.2B 18+</name>
         <price>3090.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>146</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-i/wc1000/8729017290.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="425-P">
-        <name>Фигурка коллекционная подарочная - Ниер: Автомата 9S SEGA / Premium NieR Automata 9S Noodle Stopper Figure 15 см (пакет)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>30</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-g/wc1000/8729170540.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="426-B">
-        <name>Фигурка коллекционная подарочная - из аниме Агацума Зеницу (люминесцентная) 45 см</name>
         <price>5490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>147</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-p/wc1000/8729299429.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="427-B">
-        <name>Коллекционная статуя Yor Forger 39 см Spy x Family ChiYan Studio (resin/PU), лимитная фигурка (коробка)</name>
         <price>7990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>148</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-c/wc1000/8729686416.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="428">
-        <name>Фигурка коллекционная подарочная - из аниме Сегун Райден 18+ 41 см</name>
         <price>6890.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>149</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-1/wc1000/8729773021.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="429-F">
-        <name>Фигурка коллекционная подарочная - из аниме Мари Макинами 18+ 48 см</name>
         <price>5990.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>73</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-m/wc1000/8729994298.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="430-F">
-        <name>Фигурка коллекционная подарочная - из аниме NieR: Automata 2B (Два Б) 18+ 50 см (пенопласт)</name>
         <price>6490.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>150</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-i/wc1000/8730156150.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="431-P">
-        <name>Фигурка коллекционная подарочная - из аниме &quot;Поднятие уровня в одиночку&quot; Сон Джин Ву / &quot;Solo Leveling&quot; Sung Jinwoo 21 см (пакет)</name>
         <price>1290.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>86</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-v/wc1000/8782073815.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="432">
-        <name>Гобелен плакат панно на стену Сатору Годжо (Satoru Gojo) из аниме &quot;Магическая битва вики&quot; (&quot;Jujutsu Kaisen Wiki&quot;) 70 см</name>
         <price>590.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>29</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-e/wc1000/8856221630.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
       <offer id="433-P">
-        <name>Фигурка из аниме Девочка-волшебница Мадока (Puella Magi Madoka Magica) - Мадока Канаме (Madoka Kaname) 18 см (пакет)</name>
         <price>790.00</price>
         <currencyId>RUR</currencyId>
-        <categoryId>30</categoryId>
-        <picture>https://ir.ozone.ru/s3/multimedia-1-6/wc1000/9093261102.jpg</picture>
+        <vat>VAT_0</vat>
       </offer>
     </offers>
   </shop>
