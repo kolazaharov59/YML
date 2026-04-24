@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate feed.xml from Google Sheets CSV
+      - name: Generate feed.xml from Google Sheets CSV (price-only)
         run: |
           python - <<'PY'
           import csv, io, urllib.request
@@ -26,7 +26,9 @@ jobs:
           SHOP_COMPANY = "ИП Захаров Николай Сергеевич"
           SHOP_URL = "https://аниме-магазин.рф"
           PLATFORM = "ГуглТаблицы"
+
           CURRENCY = "RUR"
+          VAT = "VAT_0"  # если нужно "без НДС" или "10%" — скажи, поменяем
 
           def esc(s: str) -> str:
             return (s.replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
@@ -34,52 +36,36 @@ jobs:
 
           def norm_price(v):
             s = str(v or "").strip().replace(" ", "").replace(",", ".")
-            if not s: return None
+            if not s:
+              return None
             try:
               n = float(s)
             except:
               return None
-            if n <= 0: return None
+            if n <= 0:
+              return None
             return f"{n:.2f}"
 
           data = urllib.request.urlopen(CSV_URL, timeout=60).read().decode("utf-8", errors="replace")
           rows = list(csv.reader(io.StringIO(data)))
+          if len(rows) < 2:
+            raise SystemExit("CSV empty")
+
           headers = [h.strip() for h in rows[0]]
 
           def idx(name):
-            try: return headers.index(name)
-            except: return -1
+            try:
+              return headers.index(name)
+            except:
+              return -1
 
           i_sku = idx("Артикул")
-          i_name = idx("Название")
-          i_pic = idx("Ссылка на фото")
-
-          # цена: пробуем AT, потом Авито
           i_price = idx("AT")
           if i_price < 0:
             i_price = idx("Авито")
 
-          # категория: OZON по заголовку, иначе fallback на L (12-й столбец)
-          i_cat = idx("OZON")
-          if i_cat < 0:
-            i_cat = 11
-
-          if i_sku < 0 or i_name < 0 or i_price < 0:
-            raise SystemExit(f"Missing required columns. Have: {headers}")
-
-          # категории
-          cat_id = {}
-          cats = []
-          next_id = 1
-          for r in rows[1:]:
-            c = (r[i_cat] if i_cat < len(r) else "").strip()
-            if c and c not in cat_id:
-              cat_id[c] = next_id
-              cats.append((next_id, c))
-              next_id += 1
-          if not cats:
-            cats = [(1, "Товары")]
-            cat_id["Товары"] = 1
+          if i_sku < 0 or i_price < 0:
+            raise SystemExit(f"Missing required columns. Need: Артикул and AT(or Авито). Have: {headers}")
 
           date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
 
@@ -91,32 +77,21 @@ jobs:
           out.append(f"    <company>{esc(SHOP_COMPANY)}</company>")
           out.append(f"    <url>{esc(SHOP_URL)}</url>")
           out.append(f"    <platform>{esc(PLATFORM)}</platform>")
-          out.append("    <currencies>")
-          out.append(f'      <currency id="{esc(CURRENCY)}" rate="1"/>')
-          out.append("    </currencies>")
-          out.append("    <categories>")
-          for cid, cname in cats:
-            out.append(f'      <category id="{cid}">{esc(cname)}</category>')
-          out.append("    </categories>")
           out.append("    <offers>")
 
           for r in rows[1:]:
             sku = (r[i_sku] if i_sku < len(r) else "").strip()
-            name = (r[i_name] if i_name < len(r) else "").strip()
-            price = norm_price(r[i_price] if i_price < len(r) else "")
-            if not sku or not name or price is None:
+            if not sku:
               continue
-            pic = (r[i_pic] if (i_pic >= 0 and i_pic < len(r)) else "").strip()
-            cat = (r[i_cat] if i_cat < len(r) else "").strip()
-            cid = cat_id.get(cat, cats[0][0])
+
+            price = norm_price(r[i_price] if i_price < len(r) else "")
+            if price is None:
+              continue
 
             out.append(f'      <offer id="{esc(sku)}">')
-            out.append(f"        <name>{esc(name)}</name>")
             out.append(f"        <price>{price}</price>")
             out.append(f"        <currencyId>{esc(CURRENCY)}</currencyId>")
-            out.append(f"        <categoryId>{cid}</categoryId>")
-            if pic:
-              out.append(f"        <picture>{esc(pic)}</picture>")
+            out.append(f"        <vat>{esc(VAT)}</vat>")
             out.append("      </offer>")
 
           out.append("    </offers>")
