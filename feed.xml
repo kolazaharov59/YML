@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-02T09:49:55+00:00">
+<yml_catalog date="2026-05-02T12:05:40+00:00">
   <shop>
     <name>AnimeStore</name>
     <company>ИП Захаров Николай Сергеевич</company>
@@ -8,79 +8,79 @@
     <offers>
       <offer id="1">
         <vendorCode>1</vendorCode>
-        <price>1790.00</price>
+        <price>1690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="2">
         <vendorCode>2</vendorCode>
-        <price>1590.00</price>
+        <price>1490.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="3">
         <vendorCode>3</vendorCode>
-        <price>1390.00</price>
+        <price>1290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="4">
         <vendorCode>4</vendorCode>
-        <price>1890.00</price>
+        <price>1790.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="5-B">
         <vendorCode>5-B</vendorCode>
-        <price>1590.00</price>
+        <price>1490.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="6-P">
         <vendorCode>6-P</vendorCode>
-        <price>3490.00</price>
+        <price>3290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="7">
         <vendorCode>7</vendorCode>
-        <price>1190.00</price>
+        <price>1090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="8">
         <vendorCode>8</vendorCode>
-        <price>990.00</price>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="9">
         <vendorCode>9</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="10">
         <vendorCode>10</vendorCode>
-        <price>990.00</price>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="11">
         <vendorCode>11</vendorCode>
-        <price>990.00</price>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="12">
         <vendorCode>12</vendorCode>
-        <price>990.00</price>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="13">
         <vendorCode>13</vendorCode>
-        <price>990.00</price>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -92,19 +92,19 @@
       </offer>
       <offer id="15">
         <vendorCode>15</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="16">
         <vendorCode>16</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="17">
         <vendorCode>17</vendorCode>
-        <price>990.00</price>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -134,49 +134,49 @@
       </offer>
       <offer id="22-P">
         <vendorCode>22-P</vendorCode>
-        <price>2390.00</price>
+        <price>2290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="23-B">
         <vendorCode>23-B</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="24-P">
         <vendorCode>24-P</vendorCode>
-        <price>1790.00</price>
+        <price>1690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="25">
         <vendorCode>25</vendorCode>
-        <price>2290.00</price>
+        <price>2090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="26">
         <vendorCode>26</vendorCode>
-        <price>2290.00</price>
+        <price>2090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="27">
         <vendorCode>27</vendorCode>
-        <price>2290.00</price>
+        <price>2090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="28">
         <vendorCode>28</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="29">
         <vendorCode>29</vendorCode>
-        <price>1490.00</price>
+        <price>1390.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -224,13 +224,13 @@
       </offer>
       <offer id="37">
         <vendorCode>37</vendorCode>
-        <price>1490.00</price>
+        <price>1390.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="38">
         <vendorCode>38</vendorCode>
-        <price>1790.00</price>
+        <price>1690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -356,43 +356,43 @@
       </offer>
       <offer id="59-B">
         <vendorCode>59-B</vendorCode>
-        <price>1790.00</price>
+        <price>1590.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="60-B">
         <vendorCode>60-B</vendorCode>
-        <price>1490.00</price>
+        <price>1390.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="61-B">
         <vendorCode>61-B</vendorCode>
-        <price>1790.00</price>
+        <price>1690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="62-B">
         <vendorCode>62-B</vendorCode>
-        <price>1690.00</price>
+        <price>1490.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="63-P">
         <vendorCode>63-P</vendorCode>
-        <price>1390.00</price>
+        <price>1290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="64-B">
         <vendorCode>64-B</vendorCode>
-        <price>1390.00</price>
+        <price>1290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="65-P">
         <vendorCode>65-P</vendorCode>
-        <price>1490.00</price>
+        <price>1390.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -404,37 +404,37 @@
       </offer>
       <offer id="67-B">
         <vendorCode>67-B</vendorCode>
-        <price>1090.00</price>
+        <price>990.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="68-P">
         <vendorCode>68-P</vendorCode>
-        <price>890.00</price>
+        <price>790.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="69-P">
         <vendorCode>69-P</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="70-B">
         <vendorCode>70-B</vendorCode>
-        <price>1490.00</price>
+        <price>1390.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="71">
         <vendorCode>71</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="72">
         <vendorCode>72</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -446,13 +446,13 @@
       </offer>
       <offer id="74">
         <vendorCode>74</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="75">
         <vendorCode>75</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -482,37 +482,37 @@
       </offer>
       <offer id="80-B">
         <vendorCode>80-B</vendorCode>
-        <price>1390.00</price>
+        <price>1290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="81-B">
         <vendorCode>81-B</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="81-P">
         <vendorCode>81-P</vendorCode>
-        <price>990.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="82-P">
         <vendorCode>82-P</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="82-B">
         <vendorCode>82-B</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="83-P">
         <vendorCode>83-P</vendorCode>
-        <price>1390.00</price>
+        <price>1290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -596,169 +596,169 @@
       </offer>
       <offer id="97">
         <vendorCode>97</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="98">
         <vendorCode>98</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="99">
         <vendorCode>99</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="100">
         <vendorCode>100</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="101">
         <vendorCode>101</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="102">
         <vendorCode>102</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="103">
         <vendorCode>103</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="104">
         <vendorCode>104</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="105">
         <vendorCode>105</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="106">
         <vendorCode>106</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="107">
         <vendorCode>107</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="108">
         <vendorCode>108</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="109">
         <vendorCode>109</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="110">
         <vendorCode>110</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="111">
         <vendorCode>111</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="112">
         <vendorCode>112</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="113">
         <vendorCode>113</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="114">
         <vendorCode>114</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="115">
         <vendorCode>115</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="116">
         <vendorCode>116</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="117">
         <vendorCode>117</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="118">
         <vendorCode>118</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="119">
         <vendorCode>119</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="120-B">
         <vendorCode>120-B</vendorCode>
-        <price>2290.00</price>
+        <price>2190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="121-B">
         <vendorCode>121-B</vendorCode>
-        <price>3190.00</price>
+        <price>2990.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="122-P">
         <vendorCode>122-P</vendorCode>
-        <price>1490.00</price>
+        <price>1390.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="123-P">
         <vendorCode>123-P</vendorCode>
-        <price>1090.00</price>
+        <price>990.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="123-B">
         <vendorCode>123-B</vendorCode>
-        <price>1090.00</price>
+        <price>990.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -776,7 +776,7 @@
       </offer>
       <offer id="126">
         <vendorCode>126</vendorCode>
-        <price>990.00</price>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -836,61 +836,61 @@
       </offer>
       <offer id="136">
         <vendorCode>136</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="137">
         <vendorCode>137</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="138">
         <vendorCode>138</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="139">
         <vendorCode>139</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="140">
         <vendorCode>140</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="141-P">
         <vendorCode>141-P</vendorCode>
-        <price>1190.00</price>
+        <price>1090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="142-B">
         <vendorCode>142-B</vendorCode>
-        <price>2490.00</price>
+        <price>2290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="143-B">
         <vendorCode>143-B</vendorCode>
-        <price>1890.00</price>
+        <price>1790.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="144-B">
         <vendorCode>144-B</vendorCode>
-        <price>2290.00</price>
+        <price>2190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="145-P">
         <vendorCode>145-P</vendorCode>
-        <price>890.00</price>
+        <price>790.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -926,7 +926,7 @@
       </offer>
       <offer id="151">
         <vendorCode>151</vendorCode>
-        <price>3490.00</price>
+        <price>3290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -960,8 +960,8 @@
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
-      <offer id="156">
-        <vendorCode>156</vendorCode>
+      <offer id="156-P">
+        <vendorCode>156-P</vendorCode>
         <price>990.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
@@ -980,19 +980,19 @@
       </offer>
       <offer id="159">
         <vendorCode>159</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="160">
         <vendorCode>160</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="161">
         <vendorCode>161</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -1004,73 +1004,73 @@
       </offer>
       <offer id="163">
         <vendorCode>163</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="164">
         <vendorCode>164</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="165">
         <vendorCode>165</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="166">
         <vendorCode>166</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="167">
         <vendorCode>167</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="168">
         <vendorCode>168</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="169">
         <vendorCode>169</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="170">
         <vendorCode>170</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="171">
         <vendorCode>171</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="172">
         <vendorCode>172</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="173">
         <vendorCode>173</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="174">
         <vendorCode>174</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -1082,19 +1082,19 @@
       </offer>
       <offer id="176-B">
         <vendorCode>176-B</vendorCode>
-        <price>4590.00</price>
+        <price>4290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="177">
         <vendorCode>177</vendorCode>
-        <price>3290.00</price>
+        <price>3090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="178-B">
         <vendorCode>178-B</vendorCode>
-        <price>1690.00</price>
+        <price>1590.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -1106,7 +1106,7 @@
       </offer>
       <offer id="180">
         <vendorCode>180</vendorCode>
-        <price>1190.00</price>
+        <price>1090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -1124,67 +1124,67 @@
       </offer>
       <offer id="183">
         <vendorCode>183</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="184">
         <vendorCode>184</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="185">
         <vendorCode>185</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="186">
         <vendorCode>186</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="187">
         <vendorCode>187</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="188">
         <vendorCode>188</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="189">
         <vendorCode>189</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="190">
         <vendorCode>190</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="191">
         <vendorCode>191</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="192">
         <vendorCode>192</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="193">
         <vendorCode>193</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -1196,7 +1196,7 @@
       </offer>
       <offer id="195">
         <vendorCode>195</vendorCode>
-        <price>1190.00</price>
+        <price>1090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -1208,19 +1208,19 @@
       </offer>
       <offer id="196-B">
         <vendorCode>196-B</vendorCode>
-        <price>1090.00</price>
+        <price>990.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="197-P">
         <vendorCode>197-P</vendorCode>
-        <price>1790.00</price>
+        <price>1690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="198-B">
         <vendorCode>198-B</vendorCode>
-        <price>2090.00</price>
+        <price>1890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -1238,19 +1238,19 @@
       </offer>
       <offer id="201-P">
         <vendorCode>201-P</vendorCode>
-        <price>1190.00</price>
+        <price>1090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="202">
         <vendorCode>202</vendorCode>
-        <price>1890.00</price>
+        <price>1690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="203">
         <vendorCode>203</vendorCode>
-        <price>2090.00</price>
+        <price>1990.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -1268,19 +1268,19 @@
       </offer>
       <offer id="206-B">
         <vendorCode>206-B</vendorCode>
-        <price>1690.00</price>
+        <price>1590.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="207">
         <vendorCode>207</vendorCode>
-        <price>1490.00</price>
+        <price>1390.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="208">
         <vendorCode>208</vendorCode>
-        <price>1490.00</price>
+        <price>1390.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -1292,223 +1292,223 @@
       </offer>
       <offer id="210">
         <vendorCode>210</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="211-B">
         <vendorCode>211-B</vendorCode>
-        <price>4090.00</price>
+        <price>3790.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="212">
         <vendorCode>212</vendorCode>
-        <price>1390.00</price>
+        <price>1290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="213">
         <vendorCode>213</vendorCode>
-        <price>1390.00</price>
+        <price>1290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="214">
         <vendorCode>214</vendorCode>
-        <price>1390.00</price>
+        <price>1290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="215">
         <vendorCode>215</vendorCode>
-        <price>1390.00</price>
+        <price>1290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="216-B">
         <vendorCode>216-B</vendorCode>
-        <price>890.00</price>
+        <price>790.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="217-B">
         <vendorCode>217-B</vendorCode>
-        <price>1390.00</price>
+        <price>1290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="217-P">
         <vendorCode>217-P</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="218-B">
         <vendorCode>218-B</vendorCode>
-        <price>1590.00</price>
+        <price>1490.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="219-P">
         <vendorCode>219-P</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="220-P">
         <vendorCode>220-P</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="220-B">
         <vendorCode>220-B</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="221-P">
         <vendorCode>221-P</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="222-P">
         <vendorCode>222-P</vendorCode>
-        <price>1390.00</price>
+        <price>1290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="222-B">
         <vendorCode>222-B</vendorCode>
-        <price>1390.00</price>
+        <price>1290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="223">
         <vendorCode>223</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="224">
         <vendorCode>224</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="225">
         <vendorCode>225</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="226">
         <vendorCode>226</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="227">
         <vendorCode>227</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="228">
         <vendorCode>228</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="229">
         <vendorCode>229</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="230">
         <vendorCode>230</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="231">
         <vendorCode>231</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="232">
         <vendorCode>232</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="233">
         <vendorCode>233</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="234">
         <vendorCode>234</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="235">
         <vendorCode>235</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="236">
         <vendorCode>236</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="237">
         <vendorCode>237</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="238">
         <vendorCode>238</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="239">
         <vendorCode>239</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="240">
         <vendorCode>240</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="241">
         <vendorCode>241</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="242">
         <vendorCode>242</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="243">
         <vendorCode>243</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -1520,19 +1520,19 @@
       </offer>
       <offer id="245-P">
         <vendorCode>245-P</vendorCode>
-        <price>1090.00</price>
+        <price>990.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="246-B">
         <vendorCode>246-B</vendorCode>
-        <price>2190.00</price>
+        <price>1990.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="247-P">
         <vendorCode>247-P</vendorCode>
-        <price>1190.00</price>
+        <price>1090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -1604,49 +1604,49 @@
       </offer>
       <offer id="258">
         <vendorCode>258</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="259">
         <vendorCode>259</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="260">
         <vendorCode>260</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="261">
         <vendorCode>261</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="262">
         <vendorCode>262</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="263">
         <vendorCode>263</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="264">
         <vendorCode>264</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="265">
         <vendorCode>265</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -1658,13 +1658,13 @@
       </offer>
       <offer id="267-P">
         <vendorCode>267-P</vendorCode>
-        <price>990.00</price>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="267-B">
         <vendorCode>267-B</vendorCode>
-        <price>990.00</price>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -1706,7 +1706,7 @@
       </offer>
       <offer id="273">
         <vendorCode>273</vendorCode>
-        <price>1490.00</price>
+        <price>1390.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -1802,13 +1802,13 @@
       </offer>
       <offer id="289">
         <vendorCode>289</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="290">
         <vendorCode>290</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -1856,55 +1856,55 @@
       </offer>
       <offer id="298">
         <vendorCode>298</vendorCode>
-        <price>1390.00</price>
+        <price>1290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="299">
         <vendorCode>299</vendorCode>
-        <price>1190.00</price>
+        <price>1090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="300">
         <vendorCode>300</vendorCode>
-        <price>2290.00</price>
+        <price>2190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="301-B">
         <vendorCode>301-B</vendorCode>
-        <price>1490.00</price>
+        <price>1390.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="302-B">
         <vendorCode>302-B</vendorCode>
-        <price>2890.00</price>
+        <price>2690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="303-B">
         <vendorCode>303-B</vendorCode>
-        <price>1390.00</price>
+        <price>1290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="304">
         <vendorCode>304</vendorCode>
-        <price>1590.00</price>
+        <price>1490.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="305">
         <vendorCode>305</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="306-B">
         <vendorCode>306-B</vendorCode>
-        <price>1690.00</price>
+        <price>1590.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -1934,91 +1934,91 @@
       </offer>
       <offer id="311">
         <vendorCode>311</vendorCode>
-        <price>590.00</price>
+        <price>490.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="312">
         <vendorCode>312</vendorCode>
-        <price>590.00</price>
+        <price>490.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="313">
         <vendorCode>313</vendorCode>
-        <price>590.00</price>
+        <price>490.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="314">
         <vendorCode>314</vendorCode>
-        <price>590.00</price>
+        <price>490.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="315">
         <vendorCode>315</vendorCode>
-        <price>990.00</price>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="316">
         <vendorCode>316</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="317">
         <vendorCode>317</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="318">
         <vendorCode>318</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="319">
         <vendorCode>319</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="320">
         <vendorCode>320</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="321">
         <vendorCode>321</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="322">
         <vendorCode>322</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="323">
         <vendorCode>323</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="324">
         <vendorCode>324</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="325">
         <vendorCode>325</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2204,7 +2204,7 @@
       </offer>
       <offer id="356">
         <vendorCode>356</vendorCode>
-        <price>1890.00</price>
+        <price>1790.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2216,19 +2216,19 @@
       </offer>
       <offer id="358">
         <vendorCode>358</vendorCode>
-        <price>990.00</price>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="359">
         <vendorCode>359</vendorCode>
-        <price>990.00</price>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="360">
         <vendorCode>360</vendorCode>
-        <price>990.00</price>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2300,7 +2300,7 @@
       </offer>
       <offer id="372-B">
         <vendorCode>372-B</vendorCode>
-        <price>1090.00</price>
+        <price>990.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2312,25 +2312,25 @@
       </offer>
       <offer id="374-B">
         <vendorCode>374-B</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="375-B">
         <vendorCode>375-B</vendorCode>
-        <price>1190.00</price>
+        <price>1090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="376-B">
         <vendorCode>376-B</vendorCode>
-        <price>1790.00</price>
+        <price>1690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="377-B">
         <vendorCode>377-B</vendorCode>
-        <price>1590.00</price>
+        <price>1490.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2348,19 +2348,19 @@
       </offer>
       <offer id="380-B">
         <vendorCode>380-B</vendorCode>
-        <price>1990.00</price>
+        <price>1890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="381-B">
         <vendorCode>381-B</vendorCode>
-        <price>1990.00</price>
+        <price>1890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="382-B">
         <vendorCode>382-B</vendorCode>
-        <price>1990.00</price>
+        <price>1890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2402,25 +2402,25 @@
       </offer>
       <offer id="389-B">
         <vendorCode>389-B</vendorCode>
-        <price>1390.00</price>
+        <price>1290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="390-B">
         <vendorCode>390-B</vendorCode>
-        <price>1790.00</price>
+        <price>1690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="391-B">
         <vendorCode>391-B</vendorCode>
-        <price>1790.00</price>
+        <price>1690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="392-B">
         <vendorCode>392-B</vendorCode>
-        <price>1790.00</price>
+        <price>1690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2438,7 +2438,7 @@
       </offer>
       <offer id="395">
         <vendorCode>395</vendorCode>
-        <price>790.00</price>
+        <price>690.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2456,13 +2456,13 @@
       </offer>
       <offer id="398-B">
         <vendorCode>398-B</vendorCode>
-        <price>1090.00</price>
+        <price>990.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="399-P">
         <vendorCode>399-P</vendorCode>
-        <price>1590.00</price>
+        <price>1490.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2492,13 +2492,13 @@
       </offer>
       <offer id="404-P">
         <vendorCode>404-P</vendorCode>
-        <price>1190.00</price>
+        <price>1090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="405-B">
         <vendorCode>405-B</vendorCode>
-        <price>2490.00</price>
+        <price>2290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2534,19 +2534,19 @@
       </offer>
       <offer id="411-P">
         <vendorCode>411-P</vendorCode>
-        <price>990.00</price>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="412-P">
         <vendorCode>412-P</vendorCode>
-        <price>990.00</price>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="413-P">
         <vendorCode>413-P</vendorCode>
-        <price>1190.00</price>
+        <price>1090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2558,7 +2558,7 @@
       </offer>
       <offer id="415-P">
         <vendorCode>415-P</vendorCode>
-        <price>1390.00</price>
+        <price>1290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2570,13 +2570,13 @@
       </offer>
       <offer id="417-P">
         <vendorCode>417-P</vendorCode>
-        <price>1090.00</price>
+        <price>990.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="417-B">
         <vendorCode>417-B</vendorCode>
-        <price>1090.00</price>
+        <price>990.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2594,7 +2594,7 @@
       </offer>
       <offer id="420-B">
         <vendorCode>420-B</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2606,19 +2606,7 @@
       </offer>
       <offer id="422-P">
         <vendorCode>422-P</vendorCode>
-        <price>990.00</price>
-        <currencyId>RUR</currencyId>
-        <vat>VAT_0</vat>
-      </offer>
-      <offer id="423-P">
-        <vendorCode>423-P</vendorCode>
-        <price>1190.00</price>
-        <currencyId>RUR</currencyId>
-        <vat>VAT_0</vat>
-      </offer>
-      <offer id="423-B">
-        <vendorCode>423-B</vendorCode>
-        <price>1190.00</price>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2628,9 +2616,21 @@
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
+      <offer id="423-B">
+        <vendorCode>423-B</vendorCode>
+        <price>1090.00</price>
+        <currencyId>RUR</currencyId>
+        <vat>VAT_0</vat>
+      </offer>
+      <offer id="423-P">
+        <vendorCode>423-P</vendorCode>
+        <price>990.00</price>
+        <currencyId>RUR</currencyId>
+        <vat>VAT_0</vat>
+      </offer>
       <offer id="424">
         <vendorCode>424</vendorCode>
-        <price>3190.00</price>
+        <price>2990.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2642,37 +2642,37 @@
       </offer>
       <offer id="426-B">
         <vendorCode>426-B</vendorCode>
-        <price>3090.00</price>
+        <price>2890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="427-B">
         <vendorCode>427-B</vendorCode>
-        <price>5590.00</price>
+        <price>5190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="428">
         <vendorCode>428</vendorCode>
-        <price>5990.00</price>
+        <price>5590.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="429-F">
         <vendorCode>429-F</vendorCode>
-        <price>5290.00</price>
+        <price>4890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="430-F">
         <vendorCode>430-F</vendorCode>
-        <price>5690.00</price>
+        <price>5290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="431-P">
         <vendorCode>431-P</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2690,73 +2690,73 @@
       </offer>
       <offer id="434">
         <vendorCode>434</vendorCode>
-        <price>1190.00</price>
+        <price>1090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="435">
         <vendorCode>435</vendorCode>
-        <price>1190.00</price>
+        <price>1090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="436-B">
         <vendorCode>436-B</vendorCode>
-        <price>1490.00</price>
+        <price>1390.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="437-P">
         <vendorCode>437-P</vendorCode>
-        <price>1490.00</price>
+        <price>1390.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="438-B">
         <vendorCode>438-B</vendorCode>
-        <price>3090.00</price>
+        <price>2890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="439-F">
         <vendorCode>439-F</vendorCode>
-        <price>4790.00</price>
+        <price>4490.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="440-F">
         <vendorCode>440-F</vendorCode>
-        <price>4390.00</price>
+        <price>4090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="441-F">
         <vendorCode>441-F</vendorCode>
-        <price>5090.00</price>
+        <price>4790.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="442-B">
         <vendorCode>442-B</vendorCode>
-        <price>2790.00</price>
+        <price>2590.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="443-P">
         <vendorCode>443-P</vendorCode>
-        <price>890.00</price>
+        <price>790.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="444-P">
         <vendorCode>444-P</vendorCode>
-        <price>990.00</price>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="445-P">
         <vendorCode>445-P</vendorCode>
-        <price>1990.00</price>
+        <price>1890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2774,7 +2774,7 @@
       </offer>
       <offer id="448-B">
         <vendorCode>448-B</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2798,19 +2798,19 @@
       </offer>
       <offer id="452-P">
         <vendorCode>452-P</vendorCode>
-        <price>690.00</price>
+        <price>1290.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="453-P">
         <vendorCode>453-P</vendorCode>
-        <price>890.00</price>
+        <price>790.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="454-P">
         <vendorCode>454-P</vendorCode>
-        <price>1890.00</price>
+        <price>1790.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2822,7 +2822,7 @@
       </offer>
       <offer id="456-B">
         <vendorCode>456-B</vendorCode>
-        <price>1290.00</price>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2840,13 +2840,31 @@
       </offer>
       <offer id="459-B">
         <vendorCode>459-B</vendorCode>
-        <price>1190.00</price>
+        <price>1090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
       <offer id="460-P">
         <vendorCode>460-P</vendorCode>
         <price>790.00</price>
+        <currencyId>RUR</currencyId>
+        <vat>VAT_0</vat>
+      </offer>
+      <offer id="461">
+        <vendorCode>461</vendorCode>
+        <price>890.00</price>
+        <currencyId>RUR</currencyId>
+        <vat>VAT_0</vat>
+      </offer>
+      <offer id="462">
+        <vendorCode>462</vendorCode>
+        <price>890.00</price>
+        <currencyId>RUR</currencyId>
+        <vat>VAT_0</vat>
+      </offer>
+      <offer id="463">
+        <vendorCode>463</vendorCode>
+        <price>890.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
