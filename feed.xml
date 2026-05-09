@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-09T14:35:37+00:00">
+<yml_catalog date="2026-05-09T17:38:13+00:00">
   <shop>
     <name>AnimeStore</name>
     <company>ИП Захаров Николай Сергеевич</company>
@@ -381,6 +381,12 @@
       <offer id="63-P">
         <vendorCode>63-P</vendorCode>
         <price>1290.00</price>
+        <currencyId>RUR</currencyId>
+        <vat>VAT_0</vat>
+      </offer>
+      <offer id="64-P">
+        <vendorCode>64-P</vendorCode>
+        <price>1190.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -962,7 +968,7 @@
       </offer>
       <offer id="156-P">
         <vendorCode>156-P</vendorCode>
-        <price>990.00</price>
+        <price>790.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -1215,6 +1221,12 @@
       <offer id="197-P">
         <vendorCode>197-P</vendorCode>
         <price>1690.00</price>
+        <currencyId>RUR</currencyId>
+        <vat>VAT_0</vat>
+      </offer>
+      <offer id="197-B">
+        <vendorCode>197-B</vendorCode>
+        <price>1790.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
@@ -2666,7 +2678,7 @@
       </offer>
       <offer id="431-P">
         <vendorCode>431-P</vendorCode>
-        <price>1190.00</price>
+        <price>1090.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
