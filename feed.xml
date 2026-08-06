@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-06T12:23:46+00:00">
+<yml_catalog date="2026-08-06T14:42:06+00:00">
   <shop>
     <name>AnimeStore</name>
     <company>ИП Захаров Николай Сергеевич</company>
@@ -2646,8 +2646,8 @@
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
       </offer>
-      <offer id="424">
-        <vendorCode>424</vendorCode>
+      <offer id="424-B">
+        <vendorCode>424-B</vendorCode>
         <price>2990.00</price>
         <currencyId>RUR</currencyId>
         <vat>VAT_0</vat>
